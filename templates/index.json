@@ -240,6 +240,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_bNbjmz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_84KXLz": {
+          "type": "heading",
+          "settings": {
+            "text": "Avant / Après notre Micro-infusion Capillia",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_84KXLz"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -841,6 +867,7 @@
     "image_with_text_overlay_nrRLRe",
     "rich_text_9pPTQm",
     "image_with_text_overlay_w6JiyC",
+    "rich_text_bNbjmz",
     "collection-list",
     "featured-collection",
     "impact-text",
