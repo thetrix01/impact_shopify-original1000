@@ -291,6 +291,32 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "rich_text_ybyFfa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xqRfKX": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clients en parlent le mieux",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xqRfKX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -894,6 +920,7 @@
     "image_with_text_overlay_w6JiyC",
     "rich_text_bNbjmz",
     "before_after_image_GTtrTB",
+    "rich_text_ybyFfa",
     "collection-list",
     "featured-collection",
     "impact-text",
