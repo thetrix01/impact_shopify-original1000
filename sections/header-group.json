@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "SATISFAIT OU REMBOURSÉ",
+            "url": ""
+          }
+        },
+        "message_MAaHzT": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_MAaHzT"
       ],
       "settings": {
         "enable_sticky": false,
