@@ -77,7 +77,7 @@
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 0.7,
+        "impact_text_size_ratio": 0.6,
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
@@ -191,6 +191,48 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/A112CBFA-01ED-4DB7-B277-2358F96ADB68.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_9pPTQm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ChiJCK": {
+          "type": "heading",
+          "settings": {
+            "text": "Une infusion révolutionnaire, 100% indolore",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ChiJCK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_w6JiyC": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/NOUVEAUELUPRODUITDEL_ANNEE2025CHEVEUX_1024x712px_1500x1500px_4.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -797,6 +839,8 @@
     "logo_list_Cer3Mc",
     "impact_text_yfy6fg",
     "image_with_text_overlay_nrRLRe",
+    "rich_text_9pPTQm",
+    "image_with_text_overlay_w6JiyC",
     "collection-list",
     "featured-collection",
     "impact-text",
