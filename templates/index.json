@@ -557,8 +557,8 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#aedbfa",
+        "button_text_color": "#ffffff"
       }
     }
   },
