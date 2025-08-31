@@ -462,35 +462,67 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Qu’est-ce que la micro-infusion capillaire ?",
+            "content": "<p>La micro-infusion capillaire est une technique innovante qui stimule le cuir chevelu et les follicules pileux afin de favoriser la repousse des cheveux. Elle améliore la circulation sanguine locale et permet aux nutriments de mieux pénétrer.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": " Est-ce que la micro-infusion favorise vraiment la repousse des cheveux ?",
+            "content": "<p>Oui. De nombreuses personnes constatent une amélioration de la densité et de la qualité de leurs cheveux après plusieurs séances. Les résultats varient selon chaque individu, mais la micro-infusion est reconnue pour stimuler la croissance capillaire.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "À qui s’adresse ce traitement ?",
+            "content": "<p>La micro-infusion s’adresse aux hommes et aux femmes souffrant de chute de cheveux légère à modérée, de cheveux clairsemés, ou souhaitant renforcer leur cuir chevelu et redonner de l’épaisseur à leur chevelure.</p>"
+          }
+        },
+        "item_A87NPd": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faut-il pour voir les résultats ?",
+            "content": "<p>Les premiers résultats peuvent être visibles après quelques semaines, mais un suivi régulier sur plusieurs mois est recommandé pour obtenir une amélioration durable et optimale.</p>"
+          }
+        },
+        "item_ff9hM7": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que la micro-infusion fait mal ?",
+            "content": "<p>Non. La micro-infusion est un soin non invasif et indolore. Vous pouvez ressentir de légers picotements, mais le traitement reste confortable et sans effets secondaires majeurs.</p>"
+          }
+        },
+        "item_xf4reN": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il des effets secondaires ?",
+            "content": "<p>La micro-infusion est une technique sûre et douce. De légères rougeurs ou une sensibilité du cuir chevelu peuvent apparaître juste après la séance, mais elles disparaissent rapidement.</p>"
+          }
+        },
+        "item_7CUPPY": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de séances sont nécessaires ?",
+            "content": "<p>Cela dépend de votre situation capillaire. En moyenne, un cycle de plusieurs séances espacées est recommandé pour stimuler efficacement la repousse.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_A87NPd",
+        "item_ff9hM7",
+        "item_xf4reN",
+        "item_7CUPPY"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
