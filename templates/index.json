@@ -266,6 +266,31 @@
         "text_color": ""
       }
     },
+    "before_after_image_GTtrTB": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/Design_sans_titre_8.png",
+        "after_image": "shopify://shop_images/Design_sans_titre_9.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -868,6 +893,7 @@
     "rich_text_9pPTQm",
     "image_with_text_overlay_w6JiyC",
     "rich_text_bNbjmz",
+    "before_after_image_GTtrTB",
     "collection-list",
     "featured-collection",
     "impact-text",
