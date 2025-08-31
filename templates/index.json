@@ -146,6 +146,42 @@
         "logo_item_border": ""
       }
     },
+    "impact_text_yfy6fg": {
+      "type": "impact-text",
+      "blocks": {
+        "item_A9QQPV": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Pourquoi la Micro-infusion Capillia séduit-elle autant d’hommes et de femmes ?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_A9QQPV"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.5,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -743,6 +779,7 @@
     "slideshow",
     "impact_text_kYeRKc",
     "logo_list_Cer3Mc",
+    "impact_text_yfy6fg",
     "collection-list",
     "featured-collection",
     "impact-text",
