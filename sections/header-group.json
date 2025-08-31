@@ -27,11 +27,19 @@
             "text": "LIVRAISON OFFERTE",
             "url": ""
           }
+        },
+        "message_kmQkCy": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE RENTÉE À DURÉE LIMITÉE !",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_MAaHzT"
+        "message_MAaHzT",
+        "message_kmQkCy"
       ],
       "settings": {
         "enable_sticky": false,
