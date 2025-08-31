@@ -539,6 +539,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_GGgy46": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Nous contacter",
+        "title": "Des questions ?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -555,6 +576,7 @@
     "scrolling_text_7f46VN",
     "impact-text",
     "featured-product",
-    "faq"
+    "faq",
+    "contact_GGgy46"
   ]
 }
