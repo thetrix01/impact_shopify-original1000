@@ -240,6 +240,22 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_yCpHa7": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/397A09AC-84E7-47CD-98F2-30CF11243254.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-end-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_bNbjmz": {
       "type": "rich-text",
       "blocks": {
@@ -457,12 +473,6 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -527,7 +537,6 @@
         "title",
         "badges",
         "price",
-        "rating",
         "separator",
         "description",
         "variant-picker",
@@ -669,6 +678,7 @@
     "image_with_text_overlay_nrRLRe",
     "rich_text_9pPTQm",
     "image_with_text_overlay_w6JiyC",
+    "image_with_text_overlay_yCpHa7",
     "rich_text_bNbjmz",
     "before_after_image_GTtrTB",
     "rich_text_ybyFfa",
