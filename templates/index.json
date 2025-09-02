@@ -317,6 +317,82 @@
         "text_color": ""
       }
     },
+    "multi_column_drmiyx": {
+      "type": "multi-column",
+      "blocks": {
+        "item_qm3rpJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SUBLEAME_Angle_40_7_1.jpg",
+            "column_size": "3",
+            "title": "Céline",
+            "heading_tag": "h4",
+            "content": "<p>Après plusieurs tentatives sans succès, cette micro-infusion a enfin fait une vraie différence sur ma chevelure. Ma raie est beaucoup moins visible et mes cheveux paraissent bien plus épais. Je recommande à toutes celles qui souhaitent retrouver du volume efficacement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rKXQpT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_1.webp",
+            "column_size": "3",
+            "title": "Julien",
+            "heading_tag": "h4",
+            "content": "<p>Très surpris par l’efficacité : en quelques semaines seulement, j’ai vu une nette différence. Mes proches remarquent mes cheveux plus fournis et je me sens bien mieux au quotidien. Produit simple à utiliser et sans effet gras, je recommande vivement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3RnnLR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SUBLEAME_Angle_40_07.jpg",
+            "column_size": "3",
+            "title": "Sandrine",
+            "heading_tag": "h4",
+            "content": "<p>Le résultat est bluffant : ma chevelure a retrouvé tout son volume et une belle texture. J’ai enfin osé laisser mes cheveux détachés. Très satisfaite de ce soin.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Y9CN93": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_1.webp",
+            "column_size": "3",
+            "title": "Loïc",
+            "heading_tag": "h4",
+            "content": "<p>Très satisfait ! Après plusieurs semaines d’utilisation, mes cheveux sont nettement plus épais et le volume est revenu, sur le dessus comme à l’arrière. Je reçois même des compliments sur ma coiffure</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_qm3rpJ",
+        "item_rKXQpT",
+        "item_3RnnLR",
+        "item_Y9CN93"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "scrolling_text_7f46VN": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -573,6 +649,7 @@
     "rich_text_bNbjmz",
     "before_after_image_GTtrTB",
     "rich_text_ybyFfa",
+    "multi_column_drmiyx",
     "scrolling_text_7f46VN",
     "impact-text",
     "featured-product",
