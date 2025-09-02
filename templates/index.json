@@ -518,7 +518,7 @@
           "settings": {
             "image": "shopify://shop_images/badgetrust2-removebg-preview.png",
             "alignment": "center",
-            "max_width": 290
+            "max_width": 500
           }
         }
       },
