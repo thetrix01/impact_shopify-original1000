@@ -512,6 +512,14 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_6phht6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badgetrust2-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 290
+          }
         }
       },
       "block_order": [
@@ -526,7 +534,8 @@
         "quantity-selector",
         "moon_bundle_upsell_gift_app_block_GcA9AV",
         "kaching_bundles_app_block_K7t83a",
-        "buy-buttons"
+        "buy-buttons",
+        "image_6phht6"
       ],
       "settings": {
         "full_width": false,
