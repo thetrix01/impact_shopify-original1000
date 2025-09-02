@@ -489,6 +489,12 @@
             "moonbundle_selected_product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux"
           }
         },
+        "kaching_bundles_app_block_K7t83a": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -512,6 +518,7 @@
         "variant-picker",
         "quantity-selector",
         "moon_bundle_upsell_gift_app_block_GcA9AV",
+        "kaching_bundles_app_block_K7t83a",
         "buy-buttons"
       ],
       "settings": {
