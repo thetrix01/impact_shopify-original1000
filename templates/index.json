@@ -479,12 +479,6 @@
             "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux"
           }
         },
-        "liquid_PkdhCX": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -550,7 +544,6 @@
         "badges",
         "price",
         "judge_me_reviews_preview_badge_homepage_CKGzrX",
-        "liquid_PkdhCX",
         "separator",
         "description",
         "variant-picker",
