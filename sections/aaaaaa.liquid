@@ -1,0 +1,16 @@
+{% assign stock_limit = 5 %}
+{% assign first_variant = product.variants.first %}
+{% if first_variant.available and first_variant.inventory_quantity <= stock_limit %}
+<div style="background-color:#f8d7da; color:#721c24; padding:5px 10px; border-radius:4px; display:flex; align-items:center; font-weight:bold; font-size:14px;">
+  <span style="width:8px; height:8px; background-color:#dc3545; border-radius:50%; margin-right:8px; display:inline-block; animation:blink 1s infinite;"></span>
+  Stock limité : {{ first_variant.inventory_quantity }} en stock
+</div>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
+{% endif %}
