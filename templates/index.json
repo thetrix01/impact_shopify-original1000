@@ -571,6 +571,32 @@
         "input_text_color": ""
       }
     },
+    "1756923455d5d2871f": {
+      "type": "apps",
+      "blocks": {
+        "us_vs_them_general_NxdTaF": {
+          "type": "shopify://apps/us-vs-them/blocks/general/2973f47c-52ba-4fe7-a5d0-b1e6617bd662",
+          "settings": {
+            "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux",
+            "header_font_size": 12,
+            "row_font_size": 8,
+            "icons_height": 22,
+            "template_4_advantages_header": "Advantages"
+          }
+        }
+      },
+      "block_order": [
+        "us_vs_them_general_NxdTaF"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "175692308553c6cdb0": {
       "type": "apps",
       "settings": {
@@ -728,6 +754,7 @@
     "scrolling_text_7f46VN",
     "impact-text",
     "featured-product",
+    "1756923455d5d2871f",
     "175692308553c6cdb0",
     "faq",
     "1756844530d69e42ce",
