@@ -641,6 +641,42 @@
         "heading_gradient": ""
       }
     },
+    "impact_text_TgVtQM": {
+      "type": "impact-text",
+      "blocks": {
+        "item_g9KrXX": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Pourquoi choisir Capillia ?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_g9KrXX"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "1756923455d5d2871f": {
       "type": "apps",
       "blocks": {
@@ -825,6 +861,7 @@
     "featured-product",
     "rich_text_86pDTT",
     "images_with_text_scrolling_UieNaM",
+    "impact_text_TgVtQM",
     "1756923455d5d2871f",
     "175692308553c6cdb0",
     "faq",
