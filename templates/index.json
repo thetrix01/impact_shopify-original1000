@@ -416,22 +416,6 @@
         "text_color": ""
       }
     },
-    "scrolling_text_7f46VN": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Rentrée exclusive : -60% sur une durée limitée !",
-        "text_size": "small",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 3,
-        "background": "#c6e8ff",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": "radial-gradient(rgba(137, 143, 239, 1), rgba(120, 196, 245, 1) 100%)"
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "settings": {
@@ -576,6 +560,72 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_86pDTT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kzpbPj": {
+          "type": "heading",
+          "settings": {
+            "text": "Composition",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_kzpbPj"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_UieNaM": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_fxH9Hw": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Biotine",
+            "content": "<p>Le micro-infuseur Capillia associe caféine, biotine et extrait d’ortie pour stimuler les follicules pileux, renforcer la fibre capillaire et favoriser une repousse visible, tout en apportant tonus et nutriments essentiels au cuir chevelu.<br/></p><p></p>"
+          }
+        },
+        "item_WJN9Fb": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Extrait de romarin ",
+            "content": "<p>Favorise la circulation sanguine au niveau du cuir chevelu.<br/><br/></p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fxH9Hw",
+        "item_WJN9Fb"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "1756923455d5d2871f": {
@@ -758,9 +808,10 @@
     "before_after_image_GTtrTB",
     "rich_text_ybyFfa",
     "multi_column_drmiyx",
-    "scrolling_text_7f46VN",
     "impact-text",
     "featured-product",
+    "rich_text_86pDTT",
+    "images_with_text_scrolling_UieNaM",
     "1756923455d5d2871f",
     "175692308553c6cdb0",
     "faq",
