@@ -594,6 +594,7 @@
         "item_fxH9Hw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1111.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Biotine",
@@ -603,22 +604,34 @@
         "item_WJN9Fb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/12222.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Extrait de romarin ",
-            "content": "<p>Favorise la circulation sanguine au niveau du cuir chevelu.<br/><br/></p><p></p>"
+            "content": "<p>Grâce au romarin, à la vitamine E et à l’huile de jojoba, ce micro-infuseur revitalise le cuir chevelu, améliore la circulation sanguine et protège les follicules, tout en hydratant les cheveux pour qu’ils paraissent plus épais et résistants.<br/><br/></p><p></p>"
+          }
+        },
+        "item_RtnjJj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/13333.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Formule peptides et minéraux",
+            "content": "<p>Ce micro-infuseur combine peptides de cuivre, zinc et panthénol pour renforcer les follicules, stimuler la production capillaire et améliorer l’élasticité des cheveux, tout en apportant hydratation et vitalité à la chevelure.</p><p></p><p></p>"
           }
         }
       },
       "block_order": [
         "item_fxH9Hw",
-        "item_WJN9Fb"
+        "item_WJN9Fb",
+        "item_RtnjJj"
       ],
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
         "background": "",
