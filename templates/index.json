@@ -491,6 +491,12 @@
             "collapse_content": false
           }
         },
+        "liquid_L96hLQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% assign stock_limit = 5 %}\n{% assign first_variant = product.variants.first %}\n{% if first_variant.available and first_variant.inventory_quantity <= stock_limit %}\n<div style=\"background-color:#f8d7da; color:#721c24; padding:5px 10px; border-radius:4px; display:flex; align-items:center; font-weight:bold; font-size:14px; margin-bottom:10px;\">\n  <span style=\"width:8px; height:8px; background-color:#dc3545; border-radius:50%; margin-right:8px; display:inline-block; animation:blink 1s infinite;\"></span>\n  Stock limité : {{ first_variant.inventory_quantity }} en stock\n</div>\n\n<style>\n@keyframes blink {\n  0% { opacity: 1; }\n  50% { opacity: 0; }\n  100% { opacity: 1; }\n}\n</style>\n{% endif %}"
+          }
+        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
@@ -546,6 +552,7 @@
         "judge_me_reviews_preview_badge_homepage_CKGzrX",
         "separator",
         "description",
+        "liquid_L96hLQ",
         "variant-picker",
         "quantity-selector",
         "moon_bundle_upsell_gift_app_block_GcA9AV",
