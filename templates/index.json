@@ -714,6 +714,99 @@
         "text_color": ""
       }
     },
+    "impact_text_F8rjkz": {
+      "type": "impact-text",
+      "blocks": {
+        "item_RTP6Hp": {
+          "type": "item",
+          "settings": {
+            "title": "Comment utiliser notre micro-infusion ?",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_RTP6Hp"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.5,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "multiple_images_with_text_KMM7Bz": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_jU8eJF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/73ADDEB6-1089-4E31-91E2-4FB7A65ED15A.png",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_FC8miJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4BDD1893-2AA7-442D-93D3-01B559C7AC07.png",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_DFfWfn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/E0AC6A9D-EE25-494B-AEF2-F4DE83D7D86D.png",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_jU8eJF",
+        "item_FC8miJ",
+        "item_DFfWfn"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -864,6 +957,8 @@
     "impact_text_TgVtQM",
     "1756923455d5d2871f",
     "175692308553c6cdb0",
+    "impact_text_F8rjkz",
+    "multiple_images_with_text_KMM7Bz",
     "faq",
     "1756844530d69e42ce",
     "contact_GGgy46"
