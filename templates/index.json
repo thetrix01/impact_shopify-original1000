@@ -571,6 +571,17 @@
         "input_text_color": ""
       }
     },
+    "175692308553c6cdb0": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -717,6 +728,7 @@
     "scrolling_text_7f46VN",
     "impact-text",
     "featured-product",
+    "175692308553c6cdb0",
     "faq",
     "1756844530d69e42ce",
     "contact_GGgy46"
