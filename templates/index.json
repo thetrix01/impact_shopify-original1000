@@ -190,7 +190,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image.png",
+        "image": "shopify://shop_images/7447A55E-D02F-4BD6-8978-36719E94393F.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -739,7 +739,11 @@
             "header_font_size": 12,
             "row_font_size": 8,
             "icons_height": 22,
-            "template_4_advantages_header": "Advantages"
+            "template_4_advantages_header": "Advantages",
+            "cta_border_radius": 6,
+            "cta_font_size": 16,
+            "cta_padding_h": 12,
+            "cta_padding_v": 8
           }
         }
       },
