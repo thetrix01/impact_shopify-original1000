@@ -385,7 +385,7 @@
         "item_Y9CN93": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1_1.webp",
+            "image": "shopify://shop_images/5_ba2ac351-254d-4bab-92fa-508c29fe0b4e.webp",
             "column_size": "3",
             "title": "Loïc",
             "heading_tag": "h4",
@@ -563,7 +563,7 @@
         "heading_kzpbPj": {
           "type": "heading",
           "settings": {
-            "text": "Compositions",
+            "text": "Composition",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
