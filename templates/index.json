@@ -515,6 +515,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_CxkQKj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6D188A0A-C4C3-4C9E-985C-82891F07DC2D_4_5005_c-Photoroom.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "image_6phht6": {
           "type": "image",
           "settings": {
@@ -537,6 +545,7 @@
         "moon_bundle_upsell_gift_app_block_GcA9AV",
         "kaching_bundles_app_block_K7t83a",
         "buy-buttons",
+        "image_CxkQKj",
         "image_6phht6"
       ],
       "settings": {
