@@ -727,17 +727,20 @@
         "heading_gradient": ""
       }
     },
-    "custom_liquid_xrekMJ": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
+    "image_with_text_overlay_pkELfR": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<!-- Étapes du produit -->\n<div class=\"steps-container\">\n\n  <!-- Étape 1 -->\n  <div class=\"step\">\n    <div class=\"step-media\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/istockphoto-1488253838-612x612.webp?v=1757259026\" alt=\"Icône désinfection\">\n    </div>\n    <div class=\"step-content\">\n      <div class=\"step-number\">1</div>\n      <p class=\"step-text\">\n        Pour un usage optimal et sécurisé, assurez-vous que vos cheveux soient <strong>PROPRES ET SECS</strong> avant d’utiliser ce produit. Respectez toujours les instructions fournies et évitez tout contact avec les yeux.\n      </p>\n    </div>\n  </div>\n\n  <!-- Étape 2 -->\n  <div class=\"step\">\n    <div class=\"step-media\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/ezgif-826d4e703cc547.gif?v=1757258020\" alt=\"GIF produit\">\n    </div>\n    <div class=\"step-content\">\n      <div class=\"step-number\">2</div>\n      <p class=\"step-text\">\n        Ouvrez le flacon et remplissez-le avec le sérum. Refermez-le délicatement en le vissant juste ce qu’il faut sans forcer pour une application optimale. Il est <strong>IMPORTANT</strong> de refermer la tête sans serrer : plus elle est serrée, plus le sérum aura du mal à s'écouler.\n      </p>\n    </div>\n  </div>\n\n  <!-- Étape 3 -->\n  <div class=\"step\">\n    <div class=\"step-media\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/NOUVEAU_ELU_PRODUIT_DE_L_ANNEE_2025_CHEVEUX.gif?v=1757258419\" alt=\"GIF utilisation cheveux\">\n    </div>\n    <div class=\"step-content\">\n      <div class=\"step-number\">3</div>\n      <p class=\"step-text\">\n        Appliquez le produit uniquement sur les <strong>ZONES CIBLÉES</strong>. Évitez de l’utiliser sur des zones non concernées pour garantir un résultat optimal et éviter toute irritation.\n      </p>\n    </div>\n  </div>\n\n  <!-- Étape 4 -->\n  <div class=\"step\">\n    <div class=\"step-media\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/fleches-de-processus-vertes-13691542.webp?v=1757259137\" alt=\"Icône application\">\n    </div>\n    <div class=\"step-content\">\n      <div class=\"step-number\">4</div>\n      <p class=\"step-text\">\n        <strong>Fréquence d'utilisation :</strong> Pour des résultats optimaux, utilisez ce produit <strong>UNE FOIS PAR SEMAINE</strong>. Ne dépassez pas cette fréquence pour préserver la santé de vos cheveux et de votre cuir chevelu.\n      </p>\n    </div>\n  </div>\n\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/0601_1_1.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "impact_text_TgVtQM": {
@@ -967,7 +970,7 @@
     "image_with_text_overlay_XLbd8a",
     "rich_text_86pDTT",
     "images_with_text_scrolling_UieNaM",
-    "custom_liquid_xrekMJ",
+    "image_with_text_overlay_pkELfR",
     "impact_text_TgVtQM",
     "1756923455d5d2871f",
     "175692308553c6cdb0",
