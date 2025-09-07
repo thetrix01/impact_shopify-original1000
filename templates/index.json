@@ -274,8 +274,33 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/Design_sans_titre_8.png",
-        "after_image": "shopify://shop_images/Design_sans_titre_9.png",
+        "before_image": "shopify://shop_images/C0650A60-9E6F-4EAA-8088-A549CF01AAFD_1_201_a.jpg",
+        "after_image": "shopify://shop_images/81E1ACD1-A950-454E-927F-46F4783FBF42_1_201_a.jpg",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "before_after_image_xTRDBB": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/3A5ED6DC-EB82-4B0F-98AD-DD2FE09A3A9C_4_5005_c.jpg",
+        "after_image": "shopify://shop_images/D8B3EEA4-833D-4EE6-9A31-0DF5805627C3_4_5005_c.jpg",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
@@ -414,24 +439,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "impact-text": {
-      "type": "impact-text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "featured-product": {
@@ -961,10 +968,10 @@
     "image_with_text_overlay_w6JiyC",
     "rich_text_bNbjmz",
     "before_after_image_GTtrTB",
+    "before_after_image_xTRDBB",
     "image_with_text_overlay_yCpHa7",
     "rich_text_ybyFfa",
     "multi_column_drmiyx",
-    "impact-text",
     "featured-product",
     "tabs_yHBiUb",
     "image_with_text_overlay_XLbd8a",
