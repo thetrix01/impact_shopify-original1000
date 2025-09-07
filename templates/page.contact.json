@@ -21,8 +21,8 @@
       "settings": {
         "full_width": true,
         "subheading": "Nous contacter",
-        "title": "Vous pouvez nous contacter par email à l'adresse contact@capillia-infusion.fr ou via le formulaire ci-dessous",
-        "content": "",
+        "title": "",
+        "content": "<p>Vous pouvez nous contacter par email à l'adresse <strong>contact@capillia-infusion.fr</strong> ou via le formulaire ci-dessous<br/><br/></p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
