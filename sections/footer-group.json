@@ -11,6 +11,27 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "contact_PEGezp": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Nous contacter",
+        "title": "Des questions?",
+        "content": "",
+        "text_position": "end",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -121,6 +142,7 @@
     }
   },
   "order": [
+    "contact_PEGezp",
     "text-with-icons",
     "footer"
   ]
