@@ -19,7 +19,7 @@
         "subheading": "Nous contacter",
         "title": "Des questions?",
         "content": "",
-        "text_position": "end",
+        "text_position": "start",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
