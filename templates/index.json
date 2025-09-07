@@ -453,12 +453,6 @@
             "show_taxes_notice": false
           }
         },
-        "judge_me_reviews_preview_badge_homepage_CKGzrX": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux"
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -536,7 +530,6 @@
         "title",
         "badges",
         "price",
-        "judge_me_reviews_preview_badge_homepage_CKGzrX",
         "separator",
         "description",
         "liquid_L96hLQ",
@@ -904,20 +897,24 @@
         "accordion_text_color": ""
       }
     },
-    "1756844530d69e42ce": {
+    "1757268479c7402b21": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_review_widget_homepage_WWcb99": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "loox_reviews_loox_agg_section_dYJKrN": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux",
-            "review_data": "real_data",
-            "max_width": 1200
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
           }
         }
       },
       "block_order": [
-        "judge_me_reviews_review_widget_homepage_WWcb99"
+        "loox_reviews_loox_agg_section_dYJKrN"
       ],
       "settings": {
         "full_width": true,
@@ -975,7 +972,7 @@
     "1756923455d5d2871f",
     "175692308553c6cdb0",
     "faq",
-    "1756844530d69e42ce",
+    "1757268479c7402b21",
     "contact_GGgy46"
   ]
 }
