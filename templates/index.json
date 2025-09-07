@@ -566,22 +566,6 @@
         "input_text_color": ""
       }
     },
-    "image_with_text_overlay_XLbd8a": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/a75711d9-71b5-42a2-9acb-da5e234582a5.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "tabs_yHBiUb": {
       "type": "tabs",
       "blocks": {
@@ -646,6 +630,22 @@
         "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "image_with_text_overlay_XLbd8a": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/a75711d9-71b5-42a2-9acb-da5e234582a5.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "rich_text_86pDTT": {
@@ -727,61 +727,20 @@
         "heading_gradient": ""
       }
     },
-    "multiple_images_with_text_KMM7Bz": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_jU8eJF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/73ADDEB6-1089-4E31-91E2-4FB7A65ED15A.png",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Comment utiliser notre micro-infusion Capillia ?",
-            "content": "<p>Étape 1</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_FC8miJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4BDD1893-2AA7-442D-93D3-01B559C7AC07.png",
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Comment utiliser notre micro-infusion Capillia ?",
-            "content": "<p>Étape 2</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_DFfWfn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/E0AC6A9D-EE25-494B-AEF2-F4DE83D7D86D.png",
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Comment utiliser notre micro-infusion Capillia ?",
-            "content": "<p>Étape 3</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_jU8eJF",
-        "item_FC8miJ",
-        "item_DFfWfn"
-      ],
-      "name": "Multiple images with text",
+    "image_with_text_overlay_pkELfR": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/0601_1_1.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "impact_text_TgVtQM": {
@@ -1007,11 +966,11 @@
     "multi_column_drmiyx",
     "impact-text",
     "featured-product",
-    "image_with_text_overlay_XLbd8a",
     "tabs_yHBiUb",
+    "image_with_text_overlay_XLbd8a",
     "rich_text_86pDTT",
     "images_with_text_scrolling_UieNaM",
-    "multiple_images_with_text_KMM7Bz",
+    "image_with_text_overlay_pkELfR",
     "impact_text_TgVtQM",
     "1756923455d5d2871f",
     "175692308553c6cdb0",
