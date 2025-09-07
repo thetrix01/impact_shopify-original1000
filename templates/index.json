@@ -582,13 +582,79 @@
         "overlay_opacity": 0
       }
     },
+    "tabs_yHBiUb": {
+      "type": "tabs",
+      "blocks": {
+        "tab_nRCYmc": {
+          "type": "tab",
+          "settings": {
+            "title": "Contenu du Kit Micro-infusion capillaire",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_PTApFR": {
+          "type": "tab",
+          "settings": {
+            "title": "Composition Sérum Peptide Capillia",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_iEQEFt": {
+          "type": "tab",
+          "settings": {
+            "title": "Est-ce indolore et sans danger ?",
+            "content": "<p>Notre sérum capillaire Micro-Infusion est formulé avec des ingrédients naturels et des actifs hautement performants. Il nourrit, revitalise et stimule le cuir chevelu pour favoriser une repousse plus dense et des cheveux visiblement plus forts et plus sains.</p><p></p><h4>Ingrédients clés :</h4><p>• <strong>Copper Tripeptide-1</strong> : Peptide bioactif reconnu pour stimuler la régénération cellulaire et renforcer les follicules capillaires.</p><p>• <strong>Caféine</strong> : Active la microcirculation du cuir chevelu et favorise la croissance des cheveux.</p><p>• <strong>Biotine (Vitamine B7)</strong> : Essentielle à la santé capillaire, elle fortifie la fibre et limite la chute.</p><p>• <strong>Acides aminés essentiels (Arginine, Glycine, Sérine)</strong> : Contribuent à la production de kératine, améliorant la structure et la résistance des cheveux.</p><p>• <strong>Acide hyaluronique</strong> : Hydrate intensément le cuir chevelu et aide à maintenir un environnement sain pour la repousse.</p><p>• <strong>Extrait de romarin</strong> : Reconnu pour stimuler les follicules et favoriser une croissance capillaire naturelle.</p><p>• <strong>Huile d’arbre à thé (Tea Tree)</strong> : Purifie le cuir chevelu, réduit les déséquilibres et prévient les irritations.</p><p><strong>• Synergie de 15 huiles essentielles :</strong> Avocat, argan, jojoba, lavande, eucalyptus, romarin, citronnelle, baie de genévrier, amla, sauge espagnole, ricin, cèdre, thym et géranium — pour nourrir, protéger et revitaliser les cheveux à la racine.</p><p>Grâce à cette formule unique, Micro-Infuse® agit en profondeur sur le cuir chevelu pour stimuler la croissance, renforcer les racines et améliorer la densité capillaire. Les cheveux retrouvent vitalité, brillance et résistance, dès les premières applications.</p>",
+            "page": ""
+          }
+        },
+        "tab_kMpQKc": {
+          "type": "tab",
+          "settings": {
+            "title": "60 Jours Satisfait ou Remboursé",
+            "content": "<p>Essayer le kit repousse cheveux Capillia sans risque <strong>pendant 60 jours</strong>. Si vous n'êtes pas satisfait vous avez la possibilité de demander <strong>un remboursement intégral</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_dwek6i": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 7j/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@capillia-infusion.fr</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_nRCYmc",
+        "tab_PTApFR",
+        "tab_iEQEFt",
+        "tab_kMpQKc",
+        "tab_dwek6i"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "rich_text_86pDTT": {
       "type": "rich-text",
       "blocks": {
         "heading_kzpbPj": {
           "type": "heading",
           "settings": {
-            "text": "Composition",
+            "text": "Ingrédients testés cliniquement",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -905,6 +971,7 @@
     },
     "contact_GGgy46": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
@@ -941,6 +1008,7 @@
     "impact-text",
     "featured-product",
     "image_with_text_overlay_XLbd8a",
+    "tabs_yHBiUb",
     "rich_text_86pDTT",
     "images_with_text_scrolling_UieNaM",
     "multiple_images_with_text_KMM7Bz",
