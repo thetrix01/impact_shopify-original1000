@@ -939,21 +939,21 @@
     "1757268479c7402b21": {
       "type": "apps",
       "blocks": {
-        "loox_reviews_loox_agg_section_iEwWQ3": {
+        "loox_reviews_loox_agg_section_fyNQVL": {
           "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "hide_thumbnails": false,
             "product_handle": "",
             "aggregated": true,
-            "data-limit": 7,
+            "data-limit": 8,
             "maxwidth": 1080,
             "is_sample": false
           }
         }
       },
       "block_order": [
-        "loox_reviews_loox_agg_section_iEwWQ3"
+        "loox_reviews_loox_agg_section_fyNQVL"
       ],
       "settings": {
         "full_width": true,
