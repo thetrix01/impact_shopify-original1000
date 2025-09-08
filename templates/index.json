@@ -523,9 +523,15 @@
         "image_37636R": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/BE566C40-CBB6-4519-AAB1-B11366C45816-Photoroom.png",
+            "image": "shopify://shop_images/BE566C40-CBB6-4519-AAB1-B11366C45816_1_201_a-Photoroom.png",
             "alignment": "center",
-            "max_width": 200
+            "max_width": 210
+          }
+        },
+        "liquid_gdDHyb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display:flex; justify-content:center; align-items:center; width:100%; margin:0; padding:0;\">\n  <div style=\"display:inline-block; text-align:center;\">\n    \n    <!-- Timer -->\n    <div id=\"countdown\" style=\"font-family:Arial, sans-serif; font-size:32px; font-weight:bold; color:#222; line-height:1;\">\n      00:00:00:00\n    </div>\n\n    <!-- Labels sous le timer -->\n    <div style=\"font-family:Arial, sans-serif; font-size:14px; color:#777; display:flex; justify-content:space-between; width:200px; margin:4px auto 0;\">\n      <span style=\"flex:1; text-align:center;\">Jours</span>\n      <span style=\"flex:1; text-align:center;\">Hrs</span>\n      <span style=\"flex:1; text-align:center;\">Mins</span>\n      <span style=\"flex:1; text-align:center;\">Secs</span>\n    </div>\n    \n  </div>\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    // Durée du compte à rebours en secondes (exemple : 19 minutes et 47 secondes)\n    var duration = (19 * 60) + 47;\n\n    function updateTimer() {\n      var days = Math.floor(duration / (60 * 60 * 24));\n      var hours = Math.floor((duration % (60 * 60 * 24)) / (60 * 60));\n      var minutes = Math.floor((duration % (60 * 60)) / 60);\n      var seconds = duration % 60;\n\n      // Formatage à deux chiffres\n      days = days < 10 ? \"0\" + days : days;\n      hours = hours < 10 ? \"0\" + hours : hours;\n      minutes = minutes < 10 ? \"0\" + minutes : minutes;\n      seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n      // Affichage dans le HTML\n      document.getElementById(\"countdown\").innerHTML = days + \":\" + hours + \":\" + minutes + \":\" + seconds;\n\n      // Quand le timer atteint zéro\n      if (duration <= 0) {\n        clearInterval(timerInterval);\n        document.getElementById(\"countdown\").innerHTML = \"00:00:00:00\";\n      }\n\n      duration--;\n    }\n\n    // Mise à jour toutes les secondes\n    var timerInterval = setInterval(updateTimer, 1000);\n    updateTimer(); // Mise à jour immédiate au chargement\n  });\n</script>"
           }
         },
         "buy-buttons": {
@@ -569,6 +575,7 @@
         "moon_bundle_upsell_gift_app_block_GcA9AV",
         "kaching_bundles_app_block_K7t83a",
         "image_37636R",
+        "liquid_gdDHyb",
         "buy-buttons",
         "image_CxkQKj",
         "image_6phht6"
