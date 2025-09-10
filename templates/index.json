@@ -494,26 +494,10 @@
             "show_taxes_notice": false
           }
         },
-        "loox_reviews_loox_trust_badge_T9EaFx": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "liquid_AzbtJC": {
+          "type": "liquid",
           "settings": {
-            "layout": "horizontal",
-            "alignment": "left",
-            "scheme-type": "default",
-            "review-title": "reviews",
-            "rating-icon": true,
-            "average-rating": true,
-            "loox-branding": false,
-            "review-count": false,
-            "open-reviews": false,
-            "show-border": true,
-            "border-radius": 8,
-            "font-size": 20,
-            "background-color": "#f7f4ef",
-            "secondary-background-color": "#f7f4ef",
-            "text-color": "",
-            "rating-icon-color": "#00b67a",
-            "border-color": "#f7f4ef"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n<style>\n:root {\n  --trustpilot-green: #00B67A;\n}\n\n.rating {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 10px;\n  font-size: 16px;\n}\n\n.stars {\n  display: flex;\n  gap: 4px;\n}\n\n.star {\n  width: 20px;\n  height: 20px;\n  fill: var(--trustpilot-green);\n}\n</style>\n</head>\n<body>\n\n<div class=\"rating\">\n  <div class=\"stars\">\n    <!-- 5 étoiles identiques -->\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n  </div>\n  <span><strong>Noté 4.8/5</strong> par plus de 1500 clients</span>\n</div>\n\n</body>\n</html>"
           }
         },
         "liquid_PiR3mP": {
@@ -625,7 +609,7 @@
         "title",
         "badges",
         "price",
-        "loox_reviews_loox_trust_badge_T9EaFx",
+        "liquid_AzbtJC",
         "liquid_PiR3mP",
         "liquid_xmqckV",
         "separator",
