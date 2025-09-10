@@ -998,6 +998,27 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "contact_mAkQzW": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Nous contacter",
+        "title": "Une question ?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#205275",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -1024,6 +1045,7 @@
     "impact_text_TgVtQM",
     "1756923455d5d2871f",
     "faq",
-    "1757268479c7402b21"
+    "1757268479c7402b21",
+    "contact_mAkQzW"
   ]
 }
