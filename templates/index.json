@@ -412,13 +412,41 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_6GYWqf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Haarfiller-Vrouw_VOOR-NA_202210_05.jpg",
+            "column_size": "3",
+            "title": "Camille",
+            "heading_tag": "h4",
+            "content": "<p><em>J’étais sceptique au début, mais Capillia m’a vraiment surprise. Après quelques semaines d’utilisation, j’ai commencé à voir de nouveaux petits cheveux repousser. Mes cheveux paraissent plus denses et je me sens beaucoup mieux dans ma peau.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UKwqzb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20181104_100023-820x500.webp",
+            "column_size": "3",
+            "title": "Nicolas",
+            "heading_tag": "h4",
+            "content": "<p><em>J’avais perdu pas mal de densité au niveau des tempes, et avec Capillia j’ai commencé à voir une vraie repousse. Mes cheveux paraissent plus épais, ça m’a redonné confiance en moi.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_qm3rpJ",
         "item_rKXQpT",
         "item_3RnnLR",
-        "item_Y9CN93"
+        "item_Y9CN93",
+        "item_6GYWqf",
+        "item_UKwqzb"
       ],
       "name": "Multi-column",
       "settings": {
