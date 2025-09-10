@@ -108,6 +108,14 @@
             "max_width": 420
           }
         },
+        "image_4nYeQR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badgetrust2-removebg-preview.png",
+            "alignment": "end",
+            "max_width": 400
+          }
+        },
         "pickup_availability_4ittrJ": {
           "type": "pickup_availability",
           "settings": {}
@@ -126,6 +134,7 @@
         "kaching_bundles_app_block_aJ7DYr",
         "buy_buttons_gixmMR",
         "image_TX4dpB",
+        "image_4nYeQR",
         "pickup_availability_4ittrJ"
       ],
       "name": "Featured product",
