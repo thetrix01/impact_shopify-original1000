@@ -271,12 +271,26 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_YxqBVf": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display:flex;flex-wrap:wrap;align-items:center;justify-content:center;background:#fff;padding:40px 20px;\">\n  \n  <!-- Colonne texte -->\n  <div style=\"flex:1;min-width:300px;max-width:600px;background:#d6cfd6;padding:40px;border-radius:8px;margin:10px;\">\n    <h2 style=\"font-size:26px;font-weight:bold;color:#fff;margin-bottom:20px;\">\n      Micro-Infuse® : Une Nouvelle Approche Scientifique pour Vos Cheveux\n    </h2>\n    <p style=\"color:#fff;font-size:16px;line-height:1.6;\">\n      Grâce à ses micro-aiguilles de précision (0,5 mm), la technologie \n      <strong>Micro-Infuse®</strong> ouvre de minuscules canaux invisibles à la surface du cuir chevelu.  \n      Ce processus facilite la pénétration des sérums concentrés en actifs testés en laboratoire, \n      directement au cœur des follicules.\n    </p>\n    <p style=\"color:#fff;font-size:16px;line-height:1.6;margin-top:15px;\">\n      <strong>Résultat :</strong> une absorption jusqu’à 3 fois supérieure, une circulation relancée, \n      et une stimulation durable de la croissance capillaire.  \n      Indolore, sûr et validé par des études cliniques — Micro-Infuse® agit à la racine, \n      et pas uniquement en surface.\n    </p>\n  </div>\n\n  <!-- Colonne image -->\n  <div style=\"flex:1;min-width:300px;max-width:600px;text-align:center;margin:10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/NOUVEAUELUPRODUITDEL_ANNEE2025CHEVEUX_1024x712px_1500x1500px_2.gif?v=1757520527\" \n         alt=\"Micro-Infuse Capillaire\" \n         style=\"max-width:100%;border-radius:8px;\">\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "1757518874275c971d",
     "featured_product_4hWeAR",
-    "text_with_icons_q7hefM"
+    "text_with_icons_q7hefM",
+    "custom_liquid_YxqBVf"
   ]
 }
