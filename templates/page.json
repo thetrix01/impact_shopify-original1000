@@ -15,9 +15,142 @@
       "settings": {
         "content_width": "80ch"
       }
+    },
+    "1757518874275c971d": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_4hWeAR": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_XdXrJL": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_iabmwd": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_krtewk": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_9Kq4gm": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_fzhxab": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_g6Tnrg": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_a3eW7N": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_mpEKjR": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_d8eQ4W": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "kaching_bundles_app_block_aJ7DYr": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux-homme"
+          }
+        },
+        "buy_buttons_gixmMR": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#3cb371",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_TX4dpB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6D188A0A-C4C3-4C9E-985C-82891F07DC2D_4_5005_c-Photoroom.png",
+            "alignment": "end",
+            "max_width": 420
+          }
+        },
+        "pickup_availability_4ittrJ": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_XdXrJL",
+        "title_iabmwd",
+        "badges_krtewk",
+        "price_9Kq4gm",
+        "rating_fzhxab",
+        "separator_g6Tnrg",
+        "description_a3eW7N",
+        "variant_picker_mpEKjR",
+        "quantity_selector_d8eQ4W",
+        "kaching_bundles_app_block_aJ7DYr",
+        "buy_buttons_gixmMR",
+        "image_TX4dpB",
+        "pickup_availability_4ittrJ"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux-homme",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1757518874275c971d",
+    "featured_product_4hWeAR"
   ]
 }
