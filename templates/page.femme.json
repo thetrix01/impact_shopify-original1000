@@ -192,6 +192,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_gYgqTU": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"text-align:left; padding:40px 20px; background-color:#fff;\">\n  <p style=\"font-size:18px; line-height:1.8; color:#555; margin-bottom:20px;\">\n    💧 <strong>Revitalisez vos cheveux et regagnez votre confiance</strong> sans douleur\n  </p>\n  <p style=\"font-size:18px; line-height:1.8; color:#555; margin-bottom:20px;\">\n    ✨ <strong>Notre technologie stimule la repousse dès la racine</strong> pour des résultats durables.\n  </p>\n  <p style=\"font-size:18px; line-height:1.8; color:#555; margin-bottom:20px;\">\n    🌱 <strong>Obtenez des cheveux plus épais, plus forts, et une transformation visible.</strong>\n  </p>\n  <p style=\"font-size:18px; line-height:1.8; color:#555; margin-bottom:20px;\">\n    💎 <strong>La qualité d'un institut, chez vous</strong>, sans perte de temps ni frais excessifs.\n  </p>\n  <p style=\"font-size:18px; line-height:1.8; color:#555; margin-bottom:20px;\">\n    🧪 <strong>Résultats prouvés cliniquement dès la première utilisation.</strong>\n  </p>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text_with_icons_q7hefM": {
       "type": "text-with-icons",
       "blocks": {
@@ -289,6 +302,7 @@
     "main",
     "1757518874275c971d",
     "featured_product_4hWeAR",
+    "custom_liquid_gYgqTU",
     "text_with_icons_q7hefM",
     "custom_liquid_YxqBVf"
   ]
