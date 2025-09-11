@@ -286,6 +286,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_fXEBRt": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Début bloc : Problème capillaire -->\n<div style=\"display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:30px;margin:40px 0;\">\n  \n  <!-- Image -->\n  <div style=\"flex:1;min-width:280px;max-width:500px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/Design_sans_titre_21.gif?v=1757522202\" \n         alt=\"Problème capillaire\" \n         style=\"width:100%;height:auto;border-radius:10px;\">\n  </div>\n\n  <!-- Texte -->\n  <div style=\"flex:1;min-width:280px;max-width:500px;background:#E7E2EB;padding:30px;border-radius:15px;\">\n    <h2 style=\"font-size:1.8rem;font-weight:bold;margin-bottom:15px;color:#333;\">\n      Au cœur de votre problème capillaire\n    </h2>\n    <p style=\"font-size:1rem;line-height:1.6;color:#444;margin-bottom:20px;\">\n      Chez l’homme, l’affaiblissement des follicules résulte d’interférences hormonales (DHT), \n      du stress oxydatif ou de carences nutritionnelles. <br><br>\n      Le problème ? 95% des solutions existantes échouent car elles n’atteignent pas \n      <strong>la zone critique : le cœur biologique du follicule.</strong><br><br>\n      Shampoings éphémères, sérums superficiels, compléments trop lents... \n      <br><br>\n      <strong>Sans activation ciblée et profonde du follicule</strong>, \n      la relance du cycle capillaire reste incomplète. Résultat : \n      des effets minimes, voire inexistants.\n    </p>\n  </div>\n\n</div>\n<!-- Fin bloc : Problème capillaire -->",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_YxqBVf": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -298,6 +311,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_7hzbTL": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Bloc Résultats Prouvés -->\n<div style=\"max-width:1200px;margin:60px auto;padding:20px;display:flex;flex-wrap:wrap;align-items:center;gap:40px;\">\n\n  <!-- Image Avant / Après -->\n  <div style=\"flex:1;min-width:300px;text-align:center;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/NOUVEAUELUPRODUITDEL_ANNEE2025CHEVEUX_1024x712px_1500x1500px_2.gif?v=1757520527\" \n         alt=\"Avant et Après Micro-Infuse\"\n         style=\"max-width:100%;border-radius:10px;box-shadow:0 4px 10px rgba(0,0,0,0.1);\">\n  </div>\n\n  <!-- Texte & Pourcentages -->\n  <div style=\"flex:1;min-width:300px;\">\n    <h3 style=\"font-size:1.6rem;font-weight:bold;color:#222;margin-bottom:15px;\">Preuve clinique :</h3>\n\n    <!-- Ligne 1 -->\n    <div style=\"display:flex;align-items:center;border-bottom:1px solid #eee;padding:15px 0;gap:20px;\">\n      <div style=\"width:60px;height:60px;border-radius:50%;border:6px solid #7D6B9F;border-right-color:transparent;border-top-color:transparent;display:flex;align-items:center;justify-content:center;font-weight:bold;color:#fff;background-color:#7D6B9F;\">\n        90%\n      </div>\n      <p style=\"margin:0;font-size:1rem;color:#444;\">\n        ont vu leur densité capillaire s'améliorer nettement. Des cheveux plus épais, plus forts.\n      </p>\n    </div>\n\n    <!-- Ligne 2 -->\n    <div style=\"display:flex;align-items:center;border-bottom:1px solid #eee;padding:15px 0;gap:20px;\">\n      <div style=\"width:60px;height:60px;border-radius:50%;border:6px solid #7D6B9F;border-right-color:transparent;border-top-color:transparent;display:flex;align-items:center;justify-content:center;font-weight:bold;color:#fff;background-color:#7D6B9F;\">\n        86%\n      </div>\n      <p style=\"margin:0;font-size:1rem;color:#444;\">\n        ont noté une chute de cheveux réduite dès les premières semaines.\n      </p>\n    </div>\n\n    <!-- Ligne 3 -->\n    <div style=\"display:flex;align-items:center;padding:15px 0;gap:20px;\">\n      <div style=\"width:60px;height:60px;border-radius:50%;border:6px solid #7D6B9F;border-left-color:transparent;border-top-color:transparent;display:flex;align-items:center;justify-content:center;font-weight:bold;color:#fff;background-color:#7D6B9F;\">\n        82%\n      </div>\n      <p style=\"margin:0;font-size:1rem;color:#444;\">\n        ont ressenti un cuir chevelu plus sain, hydraté, revitalisé.\n      </p>\n    </div>\n\n    <!-- Texte bas -->\n    <p style=\"font-size:0.9rem;color:#777;line-height:1.6;margin-top:20px;\">\n      Testé dermatologiquement, Micro-Infuse® a été validé par des experts pour garantir des résultats visibles et sûrs.\n    </p>\n  </div>\n\n</div>\n<!-- Fin Bloc Résultats Prouvés -->",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -305,6 +331,8 @@
     "1757518874275c971d",
     "featured_product_4hWeAR",
     "text_with_icons_q7hefM",
-    "custom_liquid_YxqBVf"
+    "custom_liquid_fXEBRt",
+    "custom_liquid_YxqBVf",
+    "custom_liquid_7hzbTL"
   ]
 }
