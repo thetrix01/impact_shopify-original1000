@@ -343,6 +343,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_7PcHGq": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display:flex;flex-wrap:wrap;align-items:center;justify-content:center;background:#fff;padding:40px 20px;\">\n  \n  <!-- Colonne texte -->\n  <div style=\"flex:1;min-width:300px;max-width:600px;background:#f56c8e;padding:40px;border-radius:8px;margin:10px;\">\n    <h2 style=\"font-size:26px;font-weight:bold;color:#fff;margin-bottom:20px;\">\n      Approuvé par des Experts Scientifiques\n    </h2>\n    <p style=\"color:#fff;font-size:16px;line-height:1.6;\">\n      Notre technologie Micro-Infuse® résulte de plusieurs années de recherche et a été élaborée en partenariat avec des dermatologues et des spécialistes en soins capillaires. Chaque composant de notre dispositif a fait l'objet de tests cliniques rigoureux, assurant ainsi des résultats sûrs, efficaces et durables.\n    </p>\n    <!-- Bouton de redirection vers la fiche produit -->\n    <div style=\"text-align:center;margin-top:20px;\">\n      <a href=\"https://6bye2qo7c7vn6wr2-96082690383.shopifypreview.com/pages?preview_key=f34092372f6a724ddc61cd636122636d\" style=\"display:inline-block;padding:15px 30px;background-color:#3b6b92;color:#fff;text-decoration:none;font-size:1.2rem;border-radius:5px;box-shadow:0 4px 10px rgba(0,0,0,0.1);\">\n        Profiter de l'offre ➡\n      </a>\n    </div>\n  </div>\n\n  <!-- Colonne image -->\n  <div style=\"flex:1;min-width:300px;max-width:600px;text-align:center;margin:10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/0C3A8FF7-669D-40DA-A7DA-72FD169EEC80.webp?v=1757608063\" alt=\"Micro-Infuse Capillaire\" style=\"width:100%;height:auto;max-width:600px;border-radius:8px;\">\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -353,6 +366,7 @@
     "custom_liquid_kyaqG4",
     "custom_liquid_YxqBVf",
     "custom_liquid_dekWLh",
-    "custom_liquid_Ak3WU3"
+    "custom_liquid_Ak3WU3",
+    "custom_liquid_7PcHGq"
   ]
 }
