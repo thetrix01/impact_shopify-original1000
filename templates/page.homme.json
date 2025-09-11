@@ -358,6 +358,48 @@
         "text_color": ""
       }
     },
+    "rich_text_qt36QJ": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_DUMqVh": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_Anrtqh": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Capillia ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_JjL7gR": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DUMqVh",
+        "heading_Anrtqh",
+        "richtext_JjL7gR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1757610901a6cdfebd": {
       "type": "apps",
       "blocks": {
@@ -399,6 +441,7 @@
     "custom_liquid_7hzbTL",
     "custom_html_L8h9DJ",
     "custom_html_C8nJ9Q",
+    "rich_text_qt36QJ",
     "1757610901a6cdfebd"
   ]
 }
