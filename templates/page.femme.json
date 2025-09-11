@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "content_width": "80ch"
       }
@@ -108,7 +107,7 @@
         "liquid_Kz77Nd": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"award-badge\" role=\"img\" aria-label=\"Élu numéro un des anti-rides 2025 - France\">\n  <span class=\"award-text\">ÉLU #1 DES MICRO-INFUSEUR CAPILLAIRE 2025</span>\n  <span class=\"flag\" aria-hidden=\"true\">\n    <svg viewBox=\"0 0 3 2\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid slice\" class=\"flag-svg\" focusable=\"false\">\n      <rect width=\"1\" height=\"2\" x=\"0\" fill=\"#0055A4\"/>\n      <rect width=\"1\" height=\"2\" x=\"1\" fill=\"#FFFFFF\"/>\n      <rect width=\"1\" height=\"2\" x=\"2\" fill=\"#EF4135\"/>\n    </svg>\n  </span>\n</div>\n\n<style>\n.award-badge {\n  display: flex;\n  align-items: center;\n  justify-content: center; /* centre le texte + drapeau */\n  gap: 0.5rem;\n  font-family: Arial, sans-serif;\n  font-size: 0.9rem;\n  font-weight: bold; /* texte en gras */\n  text-align: center;\n  margin: 0.5em 0;\n}\n\n.award-text {\n  color: #000000; /* texte en noir */\n  white-space: nowrap;\n}\n\n.flag {\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  width: 22px;\n  height: 15px;\n  border-radius: 3px;\n  overflow: hidden;\n  flex: 0 0 auto;\n}\n\n.flag-svg {\n  width: 100%;\n  height: 100%;\n  display: block;\n}\n</style>"
+            "liquid": "<div class=\"award-badge\" role=\"img\" aria-label=\"Élu numéro un des anti-rides 2025 - France\">\n  <span class=\"award-text\">ÉLU #1 DES MICRO-INFUSEUR CAPILLAIRE 2025</span>\n  <span class=\"flag\" aria-hidden=\"true\">\n    <svg viewBox=\"0 0 3 2\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid slice\" class=\"flag-svg\" focusable=\"false\">\n      <rect width=\"1\" height=\"2\" x=\"0\" fill=\"#0055A4\"/>\n      <rect width=\"1\" height=\"2\" x=\"1\" fill=\"#FFFFFF\"/>\n      <rect width=\"1\" height=\"2\" x=\"2\" fill=\"#EF4135\"/>\n    </svg>\n  </span>\n</div>\n\n<style>\n.award-badge {\n  display: flex;\n  align-items: center;\n  justify-content: center; /* centre le texte + drapeau */\n  gap: 0.3rem;\n  font-family: Arial, sans-serif;\n  font-size: 0.75rem; /* Reduced font size */\n  font-weight: bold; /* texte en gras */\n  text-align: center;\n  margin: 0.5em 0;\n}\n\n.award-text {\n  color: #000000; /* texte en noir */\n  white-space: nowrap;\n}\n\n.flag {\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  width: 18px; /* Reduced size */\n  height: 12px; /* Reduced size */\n  border-radius: 3px;\n  overflow: hidden;\n  flex: 0 0 auto;\n}\n\n.flag-svg {\n  width: 100%;\n  height: 100%;\n  display: block;\n}\n</style>"
           }
         },
         "liquid_N4P8rq": {
@@ -174,7 +173,6 @@
         "image_4nYeQR",
         "pickup_availability_4ittrJ"
       ],
-      "disabled": true,
       "name": "Featured product",
       "settings": {
         "full_width": true,
@@ -260,7 +258,6 @@
         "item_Aep9eT",
         "item_ERTrxT"
       ],
-      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -276,7 +273,6 @@
     },
     "custom_liquid_YxqBVf": {
       "type": "custom-liquid",
-      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
