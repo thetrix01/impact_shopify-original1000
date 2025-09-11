@@ -357,6 +357,36 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "1757610901a6cdfebd": {
+      "type": "apps",
+      "blocks": {
+        "us_vs_them_general_N9k9wB": {
+          "type": "shopify://apps/us-vs-them/blocks/general/2973f47c-52ba-4fe7-a5d0-b1e6617bd662",
+          "settings": {
+            "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux-femme",
+            "header_font_size": 20,
+            "row_font_size": 16,
+            "icons_height": 28,
+            "template_4_advantages_header": "Advantages",
+            "cta_border_radius": 6,
+            "cta_font_size": 16,
+            "cta_padding_h": 12,
+            "cta_padding_v": 8
+          }
+        }
+      },
+      "block_order": [
+        "us_vs_them_general_N9k9wB"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -368,6 +398,7 @@
     "custom_liquid_YxqBVf",
     "custom_liquid_7hzbTL",
     "custom_html_L8h9DJ",
-    "custom_html_C8nJ9Q"
+    "custom_html_C8nJ9Q",
+    "1757610901a6cdfebd"
   ]
 }
