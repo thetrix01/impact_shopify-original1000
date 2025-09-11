@@ -137,16 +137,16 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/6D188A0A-C4C3-4C9E-985C-82891F07DC2D_4_5005_c-Photoroom.png",
-            "alignment": "end",
-            "max_width": 420
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "image_4nYeQR": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/badgetrust2-removebg-preview.png",
-            "alignment": "end",
-            "max_width": 400
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "pickup_availability_4ittrJ": {
