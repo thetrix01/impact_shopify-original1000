@@ -292,6 +292,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_kyaqG4": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Début bloc : Problème capillaire -->\n<div style=\"display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:30px;margin:40px 0;\">\n  \n  <!-- Image -->\n  <div style=\"flex:1;min-width:280px;max-width:500px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/SUBLEAME_Angle_40_1_1-_1.gif?v=1757611936\" \n         alt=\"Problème capillaire\" \n         style=\"width:100%;height:auto;border-radius:10px;\">\n  </div>\n\n  <!-- Texte -->\n  <div style=\"flex:1;min-width:280px;max-width:500px;background:#4a7eb1;padding:30px;border-radius:15px;\">\n    <h2 style=\"font-size:1.8rem;font-weight:bold;margin-bottom:15px;color:#fff;\">\n      Au cœur de votre problème capillaire\n    </h2>\n    <p style=\"font-size:1rem;line-height:1.6;color:#fff;margin-bottom:20px;\">\n      Chez l’homme, l’affaiblissement des follicules résulte d’interférences hormonales (DHT), \n      du stress oxydatif ou de carences nutritionnelles. <br><br>\n      Le problème ? 95% des solutions existantes échouent car elles n’atteignent pas \n      <strong>la zone critique : le cœur biologique du follicule.</strong><br><br>\n      Shampoings éphémères, sérums superficiels, compléments trop lents... \n      <br><br>\n      <strong>Sans activation ciblée et profonde du follicule</strong>, \n      la relance du cycle capillaire reste incomplète. Résultat : \n      des effets minimes, voire inexistants.\n    </p>\n  </div>\n\n</div>\n<!-- Fin bloc : Problème capillaire -->",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_YxqBVf": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -311,6 +324,7 @@
     "1757518874275c971d",
     "featured_product_4hWeAR",
     "text_with_icons_q7hefM",
+    "custom_liquid_kyaqG4",
     "custom_liquid_YxqBVf"
   ]
 }
