@@ -101,7 +101,7 @@
         "logo_6PYjWi": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/images-Photoroom.png",
+            "logo": "shopify://shop_images/C07DBA9E-1F54-4D43-BB7F-88DF12FDAFBD_4_5005_c-Photoroom.png",
             "logo_width": 300,
             "link": ""
           }
@@ -109,7 +109,7 @@
         "logo_zr8BpF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/lofficiel-hommes-logo-png_seeklogo-469444.png",
+            "logo": "shopify://shop_images/31C5111F-2029-4FBF-83FE-DD5D973E1E21_4_5005_c-Photoroom.png",
             "logo_width": 300,
             "link": ""
           }
@@ -142,7 +142,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#e4ebff",
         "logo_item_border": ""
       }
     },
