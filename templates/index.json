@@ -198,21 +198,21 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_9pPTQm": {
+    "rich_text_wyQK7d": {
       "type": "rich-text",
       "blocks": {
-        "heading_ChiJCK": {
+        "heading_Nrmc7d": {
           "type": "heading",
           "settings": {
-            "text": "Une infusion révolutionnaire, 100% indolore",
-            "heading_tag": "h3",
+            "text": "Avant / Après Notre",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
         }
       },
       "block_order": [
-        "heading_ChiJCK"
+        "heading_Nrmc7d"
       ],
       "name": "Rich text",
       "settings": {
@@ -224,63 +224,21 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_w6JiyC": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/NOUVEAUELUPRODUITDEL_ANNEE2025CHEVEUX_1024x712px_1500x1500px_4.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_bNbjmz": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_84KXLz": {
-          "type": "heading",
-          "settings": {
-            "text": "Avant / Après notre Micro-infusion Capillia",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_84KXLz"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_GTtrTB": {
+    "before_after_image_bTKH7B": {
       "type": "before-after-image",
       "name": "Before/after image",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/C0650A60-9E6F-4EAA-8088-A549CF01AAFD_1_201_a.jpg",
-        "after_image": "shopify://shop_images/81E1ACD1-A950-454E-927F-46F4783FBF42_1_201_a.jpg",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/8396EAA8-8A5A-4433-91A1-E8C95A423195_1_201_a_7ee7ac1a-d58e-4025-9e51-24e595422c27.jpg",
+        "after_image": "shopify://shop_images/4EEC5746-8E5D-43C3-BE2C-ECB64B34088D_1_201_a.jpg",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
+        "before_text": "Before",
+        "after_text": "After",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -289,47 +247,6 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
-      }
-    },
-    "before_after_image_xTRDBB": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/3A5ED6DC-EB82-4B0F-98AD-DD2FE09A3A9C_4_5005_c.jpg",
-        "after_image": "shopify://shop_images/D8B3EEA4-833D-4EE6-9A31-0DF5805627C3_4_5005_c.jpg",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "image_with_text_overlay_yCpHa7": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/397A09AC-84E7-47CD-98F2-30CF11243254.png",
-        "mobile_text_position": "place-self-end-center text-center",
-        "desktop_text_position": "sm:place-self-end-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "rich_text_ybyFfa": {
@@ -1029,12 +946,8 @@
     "logo_list_Cer3Mc",
     "impact_text_yfy6fg",
     "image_with_text_overlay_nrRLRe",
-    "rich_text_9pPTQm",
-    "image_with_text_overlay_w6JiyC",
-    "rich_text_bNbjmz",
-    "before_after_image_GTtrTB",
-    "before_after_image_xTRDBB",
-    "image_with_text_overlay_yCpHa7",
+    "rich_text_wyQK7d",
+    "before_after_image_bTKH7B",
     "rich_text_ybyFfa",
     "custom_liquid_rb7Hk3",
     "multi_column_drmiyx",
