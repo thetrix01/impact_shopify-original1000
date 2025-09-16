@@ -204,7 +204,7 @@
         "heading_Nrmc7d": {
           "type": "heading",
           "settings": {
-            "text": "Avant / Après Notre",
+            "text": "Avant / Après",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -230,15 +230,15 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "",
+        "content": "",
         "before_image": "shopify://shop_images/8396EAA8-8A5A-4433-91A1-E8C95A423195_1_201_a_7ee7ac1a-d58e-4025-9e51-24e595422c27.jpg",
         "after_image": "shopify://shop_images/4EEC5746-8E5D-43C3-BE2C-ECB64B34088D_1_201_a.jpg",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "",
+        "after_text": "",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
