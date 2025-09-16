@@ -275,19 +275,6 @@
         "text_color": ""
       }
     },
-    "custom_liquid_rb7Hk3": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .trustpilot-score {\n    text-align: center; /* Centre tout le contenu */\n    margin-top: 20px;\n  }\n\n  .trustpilot-score p {\n    margin: 0 0 10px 0; /* Espace sous le texte */\n    font-weight: bold;\n    font-size: 1.6em; /* Texte plus grand */\n  }\n\n  .trustpilot-score img {\n    display: block; \n    margin: 0 auto; /* Centre l’image */\n    max-width: 180px; /* Taille de l’image */\n    height: auto;\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <p>Excellent</p>\n  <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/trustpilot-1024x442.webp?v=1757537568\">\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_drmiyx": {
       "type": "multi-column",
       "blocks": {
@@ -296,9 +283,9 @@
           "settings": {
             "image": "shopify://shop_images/SUBLEAME_Angle_40_7_1.jpg",
             "column_size": "3",
-            "title": "Céline",
+            "title": "Valérie M.",
             "heading_tag": "h4",
-            "content": "<p>Après plusieurs tentatives sans succès, cette micro-infusion a enfin fait une vraie différence sur ma chevelure. Ma raie est beaucoup moins visible et mes cheveux paraissent bien plus épais. Je recommande à toutes celles qui souhaitent retrouver du volume efficacement.</p>",
+            "content": "<p><em>J’étais complexée par mon cou qui commençait à se froisser et à s’affaisser. Après un mois d’utilisation de Nectura, je sens ma peau beaucoup plus ferme et lisse. Même mes amies m’ont demandé ce que j’avais changé !</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -309,9 +296,9 @@
           "settings": {
             "image": "shopify://shop_images/3_1.webp",
             "column_size": "3",
-            "title": "Julien",
+            "title": "Dominique L.",
             "heading_tag": "h4",
-            "content": "<p>Très surpris par l’efficacité : en quelques semaines seulement, j’ai vu une nette différence. Mes proches remarquent mes cheveux plus fournis et je me sens bien mieux au quotidien. Produit simple à utiliser et sans effet gras, je recommande vivement.</p>",
+            "content": "<p><em>Mon cou commençait à trahir mon âge, avec une peau relâchée et froissée. Après un mois avec Nectura, je sens ma peau plus ferme et beaucoup plus douce. Je retrouve confiance.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -322,9 +309,9 @@
           "settings": {
             "image": "shopify://shop_images/SUBLEAME_Angle_40_07.jpg",
             "column_size": "3",
-            "title": "Sandrine",
+            "title": "Monique R.",
             "heading_tag": "h4",
-            "content": "<p>Le résultat est bluffant : ma chevelure a retrouvé tout son volume et une belle texture. J’ai enfin osé laisser mes cheveux détachés. Très satisfaite de ce soin.</p>",
+            "content": "<p><em>À 66 ans, je commençais à voir ce fameux « cou fripé ». Depuis que j’utilise Nectura, ma peau paraît plus tonique, et je me sens bien mieux dans mes décolletés.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -335,9 +322,9 @@
           "settings": {
             "image": "shopify://shop_images/5_ba2ac351-254d-4bab-92fa-508c29fe0b4e.webp",
             "column_size": "3",
-            "title": "Loïc",
+            "title": "Anne-Marie G.",
             "heading_tag": "h4",
-            "content": "<p>Très satisfait ! Après plusieurs semaines d’utilisation, mes cheveux sont nettement plus épais et le volume est revenu, sur le dessus comme à l’arrière. Je reçois même des compliments sur ma coiffure</p>",
+            "content": "<p><em>J’aime la texture fondante de Nectura, elle pénètre vite sans coller. Mon cou est plus ferme et ma peau beaucoup plus souple. Je suis ravie de ce soin.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -348,9 +335,9 @@
           "settings": {
             "image": "shopify://shop_images/Haarfiller-Vrouw_VOOR-NA_202210_05.jpg",
             "column_size": "3",
-            "title": "Camille",
+            "title": "Isabelle P.",
             "heading_tag": "h4",
-            "content": "<p><em>J’étais sceptique au début, mais Capillia m’a vraiment surprise. Après quelques semaines d’utilisation, j’ai commencé à voir de nouveaux petits cheveux repousser. Mes cheveux paraissent plus denses et je me sens beaucoup mieux dans ma peau.</em></p>",
+            "content": "<p><em>Le cou est une zone difficile à traiter, mais avec Nectura j’ai vu une nette différence. La peau est plus lisse et mes bajoues sont moins visibles.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -361,9 +348,9 @@
           "settings": {
             "image": "shopify://shop_images/20181104_100023-820x500.webp",
             "column_size": "3",
-            "title": "Nicolas",
+            "title": "Élise V.",
             "heading_tag": "h4",
-            "content": "<p><em>J’avais perdu pas mal de densité au niveau des tempes, et avec Capillia j’ai commencé à voir une vraie repousse. Mes cheveux paraissent plus épais, ça m’a redonné confiance en moi.</em></p>",
+            "content": "<p><em>La texture est très agréable et surtout efficace. Mon cou est raffermi, mes rides sont adoucies et j’ai retrouvé une jolie peau.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -949,7 +936,6 @@
     "rich_text_wyQK7d",
     "before_after_image_bTKH7B",
     "rich_text_ybyFfa",
-    "custom_liquid_rb7Hk3",
     "multi_column_drmiyx",
     "featured-product",
     "tabs_yHBiUb",

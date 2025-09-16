@@ -122,7 +122,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p>Service client : contact@capillia-infusion.fr</p><p>Horaires : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
+            "content": "<p>Service client : contact@nectura.com</p><p>Horaires : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": false
           }
         }
