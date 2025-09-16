@@ -291,6 +291,19 @@
             "link_style": "link"
           }
         },
+        "item_UKwqzb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/c6a493f6d441bb916c307dd780776c41.jpg",
+            "column_size": "3",
+            "title": "Élise V.",
+            "heading_tag": "h4",
+            "content": "<p><em>La texture est très agréable et surtout efficace. Mon cou est raffermi, mes rides sont adoucies et j’ai retrouvé une jolie peau.</em><br/></p><p></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_rKXQpT": {
           "type": "item",
           "settings": {
@@ -320,7 +333,7 @@
         "item_Y9CN93": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_ba2ac351-254d-4bab-92fa-508c29fe0b4e.webp",
+            "image": "shopify://shop_images/04922569f38efbaa1d2b632b09d07424.jpg",
             "column_size": "3",
             "title": "Anne-Marie G.",
             "heading_tag": "h4",
@@ -333,7 +346,7 @@
         "item_6GYWqf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Haarfiller-Vrouw_VOOR-NA_202210_05.jpg",
+            "image": "shopify://shop_images/218991ad482e9be618583fa5baf7409e.jpg",
             "column_size": "3",
             "title": "Isabelle P.",
             "heading_tag": "h4",
@@ -342,28 +355,15 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_UKwqzb": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20181104_100023-820x500.webp",
-            "column_size": "3",
-            "title": "Élise V.",
-            "heading_tag": "h4",
-            "content": "<p><em>La texture est très agréable et surtout efficace. Mon cou est raffermi, mes rides sont adoucies et j’ai retrouvé une jolie peau.</em><br/></p><p></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_qm3rpJ",
+        "item_UKwqzb",
         "item_rKXQpT",
         "item_3RnnLR",
         "item_Y9CN93",
-        "item_6GYWqf",
-        "item_UKwqzb"
+        "item_6GYWqf"
       ],
       "name": "Multi-column",
       "settings": {
