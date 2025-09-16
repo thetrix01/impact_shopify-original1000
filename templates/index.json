@@ -278,14 +278,14 @@
     "multi_column_drmiyx": {
       "type": "multi-column",
       "blocks": {
-        "item_qm3rpJ": {
+        "item_3RnnLR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/524f51bd44cd00dbe6e65af90bb57b6d.jpg",
+            "image": "shopify://shop_images/1d832a9cc24f2fa7e4f1f5d2ee7ee0ea.jpg",
             "column_size": "3",
-            "title": "Valérie M.",
+            "title": "Monique R.",
             "heading_tag": "h4",
-            "content": "<p><em>J’étais complexée par mon cou qui commençait à se froisser et à s’affaisser. Après un mois d’utilisation de Nectura, je sens ma peau beaucoup plus ferme et lisse. Même mes amies m’ont demandé ce que j’avais changé !</em><br/></p><p></p>",
+            "content": "<p><em>À 66 ans, je commençais à voir ce fameux « cou fripé ». Depuis que j’utilise Nectura, ma peau paraît plus tonique, et je me sens bien mieux dans mes décolletés.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -304,14 +304,14 @@
             "link_style": "link"
           }
         },
-        "item_3RnnLR": {
+        "item_qm3rpJ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1d832a9cc24f2fa7e4f1f5d2ee7ee0ea.jpg",
+            "image": "shopify://shop_images/524f51bd44cd00dbe6e65af90bb57b6d.jpg",
             "column_size": "3",
-            "title": "Monique R.",
+            "title": "Valérie M.",
             "heading_tag": "h4",
-            "content": "<p><em>À 66 ans, je commençais à voir ce fameux « cou fripé ». Depuis que j’utilise Nectura, ma peau paraît plus tonique, et je me sens bien mieux dans mes décolletés.</em><br/></p><p></p>",
+            "content": "<p><em>J’étais complexée par mon cou qui commençait à se froisser et à s’affaisser. Après un mois d’utilisation de Nectura, je sens ma peau beaucoup plus ferme et lisse. Même mes amies m’ont demandé ce que j’avais changé !</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -358,9 +358,9 @@
         }
       },
       "block_order": [
-        "item_qm3rpJ",
-        "item_UKwqzb",
         "item_3RnnLR",
+        "item_UKwqzb",
+        "item_qm3rpJ",
         "item_rKXQpT",
         "item_Y9CN93",
         "item_6GYWqf"
