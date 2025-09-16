@@ -304,19 +304,6 @@
             "link_style": "link"
           }
         },
-        "item_rKXQpT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/8b8f338361fa86e2703de0a5cf253bb0.jpg",
-            "column_size": "3",
-            "title": "Dominique L.",
-            "heading_tag": "h4",
-            "content": "<p><em>Mon cou commençait à trahir mon âge, avec une peau relâchée et froissée. Après un mois avec Nectura, je sens ma peau plus ferme et beaucoup plus douce. Je retrouve confiance.</em><br/></p><p></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_3RnnLR": {
           "type": "item",
           "settings": {
@@ -325,6 +312,19 @@
             "title": "Monique R.",
             "heading_tag": "h4",
             "content": "<p><em>À 66 ans, je commençais à voir ce fameux « cou fripé ». Depuis que j’utilise Nectura, ma peau paraît plus tonique, et je me sens bien mieux dans mes décolletés.</em><br/></p><p></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rKXQpT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8b8f338361fa86e2703de0a5cf253bb0.jpg",
+            "column_size": "3",
+            "title": "Dominique L.",
+            "heading_tag": "h4",
+            "content": "<p><em>Mon cou commençait à trahir mon âge, avec une peau relâchée et froissée. Après un mois avec Nectura, je sens ma peau plus ferme et beaucoup plus douce. Je retrouve confiance.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -360,8 +360,8 @@
       "block_order": [
         "item_qm3rpJ",
         "item_UKwqzb",
-        "item_rKXQpT",
         "item_3RnnLR",
+        "item_rKXQpT",
         "item_Y9CN93",
         "item_6GYWqf"
       ],
