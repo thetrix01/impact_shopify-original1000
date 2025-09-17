@@ -477,9 +477,19 @@
         "image_VaTwGA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/AD18F2A9-5F38-457C-940A-AD580EF99A64.png",
+            "image": "shopify://shop_images/C901D3B8-E586-4750-B2C5-7386CEF85F92_1_201_a-Photoroom.png",
             "alignment": "center",
             "max_width": 280
+          }
+        },
+        "separator_eqfEjk": {
+          "type": "separator",
+          "settings": {}
+        },
+        "liquid_Wiz3Pj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"countdown\" style=\"font-size:32px; font-weight:bold; text-align:center; font-family:Arial, sans-serif;\">\n  <span id=\"days\">00</span> : \n  <span id=\"hours\">00</span> : \n  <span id=\"minutes\">17</span> : \n  <span id=\"seconds\">00</span>\n  <div style=\"font-size:14px; font-weight:normal; margin-top:5px;\">\n    <span style=\"margin:0 20px;\">Jours</span>\n    <span style=\"margin:0 20px;\">Hrs</span>\n    <span style=\"margin:0 20px;\">Mins</span>\n    <span style=\"margin:0 20px;\">Secs</span>\n  </div>\n</div>\n\n<script>\n  // Durée initiale : 17 minutes (en secondes)\n  var duration = 17 * 60;\n\n  function startCountdown() {\n    var timer = duration;\n    var daysElem = document.getElementById(\"days\");\n    var hoursElem = document.getElementById(\"hours\");\n    var minutesElem = document.getElementById(\"minutes\");\n    var secondsElem = document.getElementById(\"seconds\");\n\n    setInterval(function () {\n      var days = Math.floor(timer / (24 * 60 * 60));\n      var hours = Math.floor((timer % (24 * 60 * 60)) / 3600);\n      var minutes = Math.floor((timer % 3600) / 60);\n      var seconds = timer % 60;\n\n      daysElem.textContent = days.toString().padStart(2, \"0\");\n      hoursElem.textContent = hours.toString().padStart(2, \"0\");\n      minutesElem.textContent = minutes.toString().padStart(2, \"0\");\n      secondsElem.textContent = seconds.toString().padStart(2, \"0\");\n\n      if (--timer < 0) {\n        document.getElementById(\"countdown\").innerHTML = \"🔥 L'offre est terminée !\";\n      }\n    }, 1000);\n  }\n\n  startCountdown();\n</script>"
           }
         },
         "buy-buttons": {
@@ -531,6 +541,8 @@
         "moon_bundle_upsell_gift_app_block_GcA9AV",
         "kaching_bundles_app_block_K7t83a",
         "image_VaTwGA",
+        "separator_eqfEjk",
+        "liquid_Wiz3Pj",
         "buy-buttons",
         "image_CxkQKj",
         "liquid_kVfYL6",
