@@ -704,7 +704,7 @@
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
-        "background": "",
+        "background": "#cfd8f4",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
