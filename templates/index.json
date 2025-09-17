@@ -275,6 +275,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_BiefrY": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_drmiyx": {
       "type": "multi-column",
       "blocks": {
@@ -392,16 +405,10 @@
           "type": "badges",
           "settings": {}
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "liquid_AzbtJC": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n<style>\n:root {\n  --trustpilot-green: #00B67A;\n}\n\n.rating {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 10px;\n  font-size: 16px;\n}\n\n.stars {\n  display: flex;\n  gap: 4px;\n}\n\n.star {\n  width: 20px;\n  height: 20px;\n  fill: var(--trustpilot-green);\n}\n</style>\n</head>\n<body>\n\n<div class=\"rating\">\n  <div class=\"stars\">\n    <!-- 5 étoiles identiques -->\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n  </div>\n  <span><strong>Noté 4.8/5</strong> par plus de 1500 clients</span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n<style>\n:root {\n  --trustpilot-green: #00B67A;\n}\n\n.rating {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 10px;\n  font-size: 13px; /* Texte encore plus petit */\n}\n\n.stars {\n  display: flex;\n  gap: 4px;\n}\n\n.star {\n  width: 20px;\n  height: 20px;\n  fill: var(--trustpilot-green);\n}\n</style>\n</head>\n<body>\n\n<div class=\"rating\">\n  <div class=\"stars\">\n    <!-- 5 étoiles identiques -->\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n    <svg class=\"star\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n      <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 \n      3.8-36.7 36.1-17.7 54.6l105.7 103-25 \n      145.5c-4.5 26.3 23.2 46 46.4 \n      33.7L288 439.6l130.7 68.7c23.2 \n      12.2 50.9-7.4 46.4-33.7l-25-145.5 \n      105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 \n      150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"/>\n    </svg>\n  </div>\n  <span><strong>Noté 4.8/5</strong> par plus de 1500 clients</span>\n</div>\n\n</body>\n</html>"
           }
         },
         "liquid_PiR3mP": {
@@ -419,6 +426,12 @@
         "separator": {
           "type": "separator",
           "settings": {}
+        },
+        "liquid_BcEknr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         },
         "description": {
           "type": "description",
@@ -461,12 +474,6 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "liquid_gdDHyb": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display:flex; justify-content:center; align-items:center; width:100%; margin:0; padding:0;\">\n  <div style=\"display:inline-block; text-align:center;\">\n    \n    <!-- Timer -->\n    <div id=\"countdown\" style=\"font-family:Arial, sans-serif; font-size:32px; font-weight:bold; color:#222; line-height:1;\">\n      00:00:00:00\n    </div>\n\n    <!-- Labels sous le timer -->\n    <div style=\"font-family:Arial, sans-serif; font-size:14px; color:#777; display:flex; justify-content:space-between; width:200px; margin:4px auto 0;\">\n      <span style=\"flex:1; text-align:center;\">Jours</span>\n      <span style=\"flex:1; text-align:center;\">Hrs</span>\n      <span style=\"flex:1; text-align:center;\">Mins</span>\n      <span style=\"flex:1; text-align:center;\">Secs</span>\n    </div>\n    \n  </div>\n</div>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function() {\n    // Durée du compte à rebours en secondes (exemple : 19 minutes et 47 secondes)\n    var duration = (19 * 60) + 47;\n\n    function updateTimer() {\n      var days = Math.floor(duration / (60 * 60 * 24));\n      var hours = Math.floor((duration % (60 * 60 * 24)) / (60 * 60));\n      var minutes = Math.floor((duration % (60 * 60)) / 60);\n      var seconds = duration % 60;\n\n      // Formatage à deux chiffres\n      days = days < 10 ? \"0\" + days : days;\n      hours = hours < 10 ? \"0\" + hours : hours;\n      minutes = minutes < 10 ? \"0\" + minutes : minutes;\n      seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n      // Affichage dans le HTML\n      document.getElementById(\"countdown\").innerHTML = days + \":\" + hours + \":\" + minutes + \":\" + seconds;\n\n      // Quand le timer atteint zéro\n      if (duration <= 0) {\n        clearInterval(timerInterval);\n        document.getElementById(\"countdown\").innerHTML = \"00:00:00:00\";\n      }\n\n      duration--;\n    }\n\n    // Mise à jour toutes les secondes\n    var timerInterval = setInterval(updateTimer, 1000);\n    updateTimer(); // Mise à jour immédiate au chargement\n  });\n</script>"
-          }
-        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -486,6 +493,12 @@
             "max_width": 500
           }
         },
+        "liquid_kVfYL6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "image_6phht6": {
           "type": "image",
           "settings": {
@@ -498,20 +511,20 @@
       "block_order": [
         "title",
         "badges",
-        "price",
         "liquid_AzbtJC",
         "liquid_PiR3mP",
         "liquid_xmqckV",
         "separator",
+        "liquid_BcEknr",
         "description",
         "liquid_L96hLQ",
         "variant-picker",
         "quantity-selector",
         "moon_bundle_upsell_gift_app_block_GcA9AV",
         "kaching_bundles_app_block_K7t83a",
-        "liquid_gdDHyb",
         "buy-buttons",
         "image_CxkQKj",
+        "liquid_kVfYL6",
         "image_6phht6"
       ],
       "settings": {
@@ -920,6 +933,7 @@
     "rich_text_wyQK7d",
     "before_after_image_bTKH7B",
     "rich_text_ybyFfa",
+    "custom_liquid_BiefrY",
     "multi_column_drmiyx",
     "featured-product",
     "tabs_yHBiUb",
