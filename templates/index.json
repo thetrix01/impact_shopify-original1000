@@ -461,14 +461,6 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "image_37636R": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/BE566C40-CBB6-4519-AAB1-B11366C45816_1_201_a-Photoroom.png",
-            "alignment": "center",
-            "max_width": 210
-          }
-        },
         "liquid_gdDHyb": {
           "type": "liquid",
           "settings": {
@@ -523,7 +515,6 @@
         "quantity-selector",
         "moon_bundle_upsell_gift_app_block_GcA9AV",
         "kaching_bundles_app_block_K7t83a",
-        "image_37636R",
         "liquid_gdDHyb",
         "buy-buttons",
         "image_CxkQKj",
