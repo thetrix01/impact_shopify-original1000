@@ -801,50 +801,78 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Qu’est-ce que la micro-infusion capillaire ?",
-            "content": "<p>La micro-infusion capillaire est une technique innovante qui stimule le cuir chevelu et les follicules pileux afin de favoriser la repousse des cheveux. Elle améliore la circulation sanguine locale et permet aux nutriments de mieux pénétrer.</p>"
+            "title": "À qui s’adresse cette crème pour le cou ?",
+            "content": "<p>Notre crème est conçue pour tous types de peaux, particulièrement celles qui souhaitent prévenir ou réduire le relâchement cutané et les signes de l’âge au niveau du cou et du décolleté.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": " Est-ce que la micro-infusion favorise vraiment la repousse des cheveux ?",
-            "content": "<p>Oui. De nombreuses personnes constatent une amélioration de la densité et de la qualité de leurs cheveux après plusieurs séances. Les résultats varient selon chaque individu, mais la micro-infusion est reconnue pour stimuler la croissance capillaire.</p>"
+            "title": " Quels sont les principaux bienfaits ?",
+            "content": "<p>Elle hydrate en profondeur, raffermit la peau, améliore son élasticité et réduit l’apparence des rides et ridules.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "À qui s’adresse ce traitement ?",
-            "content": "<p>La micro-infusion s’adresse aux hommes et aux femmes souffrant de chute de cheveux légère à modérée, de cheveux clairsemés, ou souhaitant renforcer leur cuir chevelu et redonner de l’épaisseur à leur chevelure.</p>"
+            "title": "Quels ingrédients clés contient-elle ?",
+            "content": "<p>La formule associe des peptides raffermissants, de la vitamine E antioxydante et de l’acide hyaluronique hydratant.</p>"
           }
         },
         "item_A87NPd": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps faut-il pour voir les résultats ?",
-            "content": "<p>Les premiers résultats peuvent être visibles après quelques semaines, mais un suivi régulier sur plusieurs mois est recommandé pour obtenir une amélioration durable et optimale.</p>"
+            "title": "Est-elle adaptée aux peaux sensibles ?",
+            "content": "<p>Oui, la crème est testée dermatologiquement et convient même aux peaux délicates.</p>"
           }
         },
         "item_ff9hM7": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que la micro-infusion fait mal ?",
-            "content": "<p>Non. La micro-infusion est un soin non invasif et indolore. Vous pouvez ressentir de légers picotements, mais le traitement reste confortable et sans effets secondaires majeurs.</p>"
+            "title": "Comment utiliser la crème pour de meilleurs résultats ?",
+            "content": "<p>Appliquez-la matin et soir sur une peau propre en massant délicatement du bas du cou vers le menton pour stimuler la circulation et favoriser la pénétration.</p>"
           }
         },
         "item_xf4reN": {
           "type": "item",
           "settings": {
-            "title": "Y a-t-il des effets secondaires ?",
-            "content": "<p>La micro-infusion est une technique sûre et douce. De légères rougeurs ou une sensibilité du cuir chevelu peuvent apparaître juste après la séance, mais elles disparaissent rapidement.</p>"
+            "title": "Au bout de combien de temps voit-on les résultats ?",
+            "content": "<p>La peau est immédiatement plus hydratée et lissée. Les effets raffermissants et anti-âge deviennent visibles après 3 à 4 semaines d’utilisation régulière.</p>"
           }
         },
         "item_7CUPPY": {
           "type": "item",
           "settings": {
-            "title": "Combien de séances sont nécessaires ?",
-            "content": "<p>Cela dépend de votre situation capillaire. En moyenne, un cycle de plusieurs séances espacées est recommandé pour stimuler efficacement la repousse.</p>"
+            "title": "uis-je l’appliquer sur d’autres zones ?",
+            "content": "<p>Oui, elle peut également être utilisée sur le décolleté et le bas du visage pour un effet raffermissant global.</p>"
+          }
+        },
+        "item_Qrx4PG": {
+          "type": "item",
+          "settings": {
+            "title": "La crème contient-elle des ingrédients controversés ?",
+            "content": "<p>Non, elle est formulée sans parabènes, sans silicones lourds et sans huiles minérales.</p>"
+          }
+        },
+        "item_jzCzTe": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-elle être utilisée en combinaison avec d’autres soins ?",
+            "content": "<p>Absolument, elle complète parfaitement une routine beauté et peut être appliquée avant ou après votre sérum habituel.</p>"
+          }
+        },
+        "item_KeetwP": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle quantité de produit dois-je utiliser ?",
+            "content": "<p>Une petite noisette suffit pour couvrir le cou et le décolleté, rendant la crème à la fois efficace et économique.</p>"
+          }
+        },
+        "item_3HHwey": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>En raison du succès de notre crème, la livraison peut prendre entre <strong>5 et 10 jours maximum</strong>.</p>"
           }
         }
       },
@@ -855,7 +883,11 @@
         "item_A87NPd",
         "item_ff9hM7",
         "item_xf4reN",
-        "item_7CUPPY"
+        "item_7CUPPY",
+        "item_Qrx4PG",
+        "item_jzCzTe",
+        "item_KeetwP",
+        "item_3HHwey"
       ],
       "settings": {
         "full_width": false,
