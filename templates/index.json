@@ -566,6 +566,22 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_FQrq8n": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/12FA8B2C-82C2-40CE-888C-CC86AC907688_1_201_a.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "tabs_yHBiUb": {
       "type": "tabs",
       "blocks": {
@@ -925,6 +941,7 @@
     "custom_liquid_BiefrY",
     "multi_column_drmiyx",
     "featured-product",
+    "image_with_text_overlay_FQrq8n",
     "tabs_yHBiUb",
     "rich_text_86pDTT",
     "images_with_text_scrolling_UieNaM",
