@@ -687,16 +687,6 @@
             "content": "<p>Les peptides sont de petites chaînes d’acides aminés qui stimulent la production de collagène et d’élastine dans la peau. Le peptide raffermissant aide à tonifier et à raffermir la peau du cou, réduisant l’apparence des rides et des ridules, et redonnant un effet plus ferme et lisse à la peau.</p><p></p>"
           }
         },
-        "item_WJN9Fb": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/12222.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Vitamine E",
-            "content": "<p>La vitamine E est un antioxydant puissant qui protège la peau contre les dommages causés par les radicaux libres et le vieillissement prématuré. Elle aide également à hydrater et à apaiser la peau, tout en favorisant sa régénération naturelle et en améliorant son élasticité.</p><p></p>"
-          }
-        },
         "item_RtnjJj": {
           "type": "item",
           "settings": {
@@ -706,12 +696,22 @@
             "title": " Acide hyaluronique",
             "content": "<p>L’acide hyaluronique est une molécule naturellement présente dans la peau, réputée pour sa capacité à retenir l’eau. Il hydrate intensément, repulpe la peau et lisse les rides, offrant un effet rajeunissant immédiat tout en améliorant l’élasticité et la souplesse de la peau du cou.</p><p></p><p></p><p></p><p></p>"
           }
+        },
+        "item_WJN9Fb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/12222.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Vitamine E",
+            "content": "<p>La vitamine E est un antioxydant puissant qui protège la peau contre les dommages causés par les radicaux libres et le vieillissement prématuré. Elle aide également à hydrater et à apaiser la peau, tout en favorisant sa régénération naturelle et en améliorant son élasticité.</p><p></p>"
+          }
         }
       },
       "block_order": [
         "item_fxH9Hw",
-        "item_WJN9Fb",
-        "item_RtnjJj"
+        "item_RtnjJj",
+        "item_WJN9Fb"
       ],
       "name": "Images and text scrolling",
       "settings": {
