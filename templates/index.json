@@ -601,14 +601,6 @@
             "page": ""
           }
         },
-        "tab_iEQEFt": {
-          "type": "tab",
-          "settings": {
-            "title": "Satisfait ou remboursé pendant 90 jours",
-            "content": "<p>Nous sommes convaincus de l’efficacité de notre produit. Si vous n’êtes pas entièrement satisfait, vous pouvez nous le retourner sous 90 jours pour un remboursement complet, sans poser de questions.<br/></p><p></p>",
-            "page": ""
-          }
-        },
         "tab_kMpQKc": {
           "type": "tab",
           "settings": {
@@ -617,11 +609,19 @@
             "page": ""
           }
         },
+        "tab_iEQEFt": {
+          "type": "tab",
+          "settings": {
+            "title": "Satisfait ou remboursé pendant 90 jours",
+            "content": "<p>Nous sommes convaincus de l’efficacité de notre produit. Si vous n’êtes pas entièrement satisfait, vous pouvez nous le retourner sous 90 jours pour un remboursement complet, sans poser de questions.<br/></p><p></p>",
+            "page": ""
+          }
+        },
         "tab_dwek6i": {
           "type": "tab",
           "settings": {
             "title": "Service client à votre écoute 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@keralyn.fr<br/></p><p></p>",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"<strong>Contact</strong>\" de notre boutique ou par email à l'adresse <strong>contact@keralyn.fr</strong><br/></p><p></p>",
             "page": ""
           }
         }
@@ -629,8 +629,8 @@
       "block_order": [
         "tab_nRCYmc",
         "tab_PTApFR",
-        "tab_iEQEFt",
         "tab_kMpQKc",
+        "tab_iEQEFt",
         "tab_dwek6i"
       ],
       "name": "Tabs",
