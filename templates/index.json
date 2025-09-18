@@ -655,7 +655,7 @@
           "type": "heading",
           "settings": {
             "text": "Ingrédients cliniquement testés",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
