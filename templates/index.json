@@ -843,7 +843,7 @@
         "item_7CUPPY": {
           "type": "item",
           "settings": {
-            "title": "uis-je l’appliquer sur d’autres zones ?",
+            "title": "Puis-je l’appliquer sur d’autres zones ?",
             "content": "<p>Oui, elle peut également être utilisée sur le décolleté et le bas du visage pour un effet raffermissant global.</p>"
           }
         },
