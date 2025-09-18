@@ -190,7 +190,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/7BA8C0A8-3C9F-40C9-A987-D578A164F38D.png",
+        "image": "shopify://shop_images/1ed.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
