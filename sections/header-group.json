@@ -21,6 +21,13 @@
             "url": ""
           }
         },
+        "message_hxp8ah": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE AUTOMNE",
+            "url": ""
+          }
+        },
         "message_MAaHzT": {
           "type": "message",
           "settings": {
@@ -38,6 +45,7 @@
       },
       "block_order": [
         "message",
+        "message_hxp8ah",
         "message_MAaHzT",
         "message_kmQkCy"
       ],
