@@ -343,27 +343,27 @@
             "link_style": "link"
           }
         },
-        "item_3RnnLR": {
+        "item_6GYWqf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4e2787f2a95bff49036fbd29cc0ec500.jpg",
+            "image": "shopify://shop_images/524f51bd44cd00dbe6e65af90bb57b6d.jpg",
             "column_size": "3",
-            "title": "Monique R.",
+            "title": "Isabelle P.",
             "heading_tag": "h4",
-            "content": "<p><em>À 66 ans, je commençais à voir ce fameux « cou fripé ». Depuis que j’utilise Nectura, ma peau paraît plus tonique, et je me sens bien mieux dans mes décolletés.</em><br/></p><p></p>",
+            "content": "<p><em>Le cou est une zone difficile à traiter, mais avec Nectura j’ai vu une nette différence. La peau est plus lisse et mes bajoues sont moins visibles.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_6GYWqf": {
+        "item_3RnnLR": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/218991ad482e9be618583fa5baf7409e.jpg",
+            "image": "shopify://shop_images/04922569f38efbaa1d2b632b09d07424.jpg",
             "column_size": "3",
-            "title": "Isabelle P.",
+            "title": "Monique R.",
             "heading_tag": "h4",
-            "content": "<p><em>Le cou est une zone difficile à traiter, mais avec Nectura j’ai vu une nette différence. La peau est plus lisse et mes bajoues sont moins visibles.</em><br/></p><p></p>",
+            "content": "<p><em>À 66 ans, je commençais à voir ce fameux « cou fripé ». Depuis que j’utilise Nectura, ma peau paraît plus tonique, et je me sens bien mieux dans mes décolletés.</em><br/></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -375,8 +375,8 @@
         "item_qm3rpJ",
         "item_rKXQpT",
         "item_Y9CN93",
-        "item_3RnnLR",
-        "item_6GYWqf"
+        "item_6GYWqf",
+        "item_3RnnLR"
       ],
       "name": "Multi-column",
       "settings": {
