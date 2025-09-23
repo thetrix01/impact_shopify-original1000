@@ -32,7 +32,7 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
+        "button_background": "#cfd8f4",
         "button_text_color": ""
       }
     }
