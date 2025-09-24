@@ -465,7 +465,7 @@
         "moon_bundle_upsell_gift_app_block_GcA9AV": {
           "type": "shopify://apps/moon-bundle-upsell-gift/blocks/app-block/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
           "settings": {
-            "moonbundle_selected_product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux"
+            "moonbundle_selected_product": "keralyn-soin-fermete-et-lifting-du-cou"
           }
         },
         "kaching_bundles_app_block_K7t83a": {
@@ -550,7 +550,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux",
+        "product": "keralyn-soin-fermete-et-lifting-du-cou",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -782,7 +782,7 @@
         "us_vs_them_general_NxdTaF": {
           "type": "shopify://apps/us-vs-them/blocks/general/2973f47c-52ba-4fe7-a5d0-b1e6617bd662",
           "settings": {
-            "product": "capillia-micro-infuseur-stimule-la-repousse-des-cheveux",
+            "product": "keralyn-soin-fermete-et-lifting-du-cou",
             "container_max_width_unit": "px",
             "container_max_width_desktop_value": 0,
             "container_max_width_mobile_value": 0,
