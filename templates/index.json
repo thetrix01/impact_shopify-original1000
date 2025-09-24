@@ -941,6 +941,30 @@
         "accordion_text_color": ""
       }
     },
+    "17587380269534b266": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_fe37Bk": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "keralyn-soin-fermete-et-lifting-du-cou",
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_fe37Bk"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1757268479c7402b21": {
       "type": "apps",
       "blocks": {
@@ -1012,6 +1036,7 @@
     "1756923455d5d2871f",
     "image_with_text_overlay_NTieH8",
     "faq",
+    "17587380269534b266",
     "1757268479c7402b21",
     "contact_mAkQzW"
   ]
