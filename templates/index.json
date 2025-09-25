@@ -493,7 +493,7 @@
         "image_VaTwGA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Derniere_chance.png",
+            "image": "shopify://shop_images/Derniere_chance-Photoroom.png",
             "alignment": "center",
             "max_width": 370
           }
