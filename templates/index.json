@@ -490,12 +490,10 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "image_VaTwGA": {
-          "type": "image",
+        "liquid_Qr4XTf": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify://shop_images/Derniere_chance-Photoroom.png",
-            "alignment": "center",
-            "max_width": 370
+            "liquid": "<!-- Snippet: dernière-chance.liquid\n\nMode d'emploi :\n- Copie ce bloc dans un nouveau fichier de snippet (ex: snippets/derniere-chance.liquid) ou directement dans une section/template.\n- Si tu mets dans \"snippets\", inclue-le où tu veux avec: {% raw %}{% include 'derniere-chance' %}{% endraw %}\n- Tu peux ajuster la taille en modifiant `--lc-font-size` ci-dessous.\n\n-->\n\n<style>\n  /* Petite classe réutilisable pour \"Dernière chance :\" */\n  .lc-derniere-chance{\n    text-align: center;           /* aligné au centre */\n    font-weight: 700;             /* gras */\n    font-size: var(--lc-font-size, 1.25rem); /* un tout petit peu gros par défaut */\n    margin: 0.6rem 0;             /* espacement vertical */\n    line-height: 1;               /* hauteur de ligne serrée */\n    letter-spacing: 0.2px;       /* léger espacement des lettres */\n  }\n\n  /* Légère montée de taille sur grand écran */\n  @media (min-width: 1024px){\n    .lc-derniere-chance{ font-size: calc(var(--lc-font-size, 1.25rem) * 1.12); }\n  }\n</style>\n\n<div class=\"lc-derniere-chance\">\n  <strong>Dernière chance :</strong>\n</div>\n\n<!--\nOptions:\n- Pour aligner à gauche, remplace `text-align: center;` par `left`.\n- Pour l'insérer dans ton theme.css, copie seulement la règle .lc-derniere-chance (sans le <style>) et ajoute le <div> dans le HTML.\n- Pour changer la taille depuis le parent, tu peux surcharger la variable CSS:\n  .parent { --lc-font-size: 1.45rem; }\n-->"
           }
         },
         "liquid_Wiz3Pj": {
@@ -556,7 +554,7 @@
         "quantity-selector",
         "moon_bundle_upsell_gift_app_block_GcA9AV",
         "kaching_bundles_app_block_K7t83a",
-        "image_VaTwGA",
+        "liquid_Qr4XTf",
         "liquid_Wiz3Pj",
         "separator_eqfEjk",
         "buy-buttons",
