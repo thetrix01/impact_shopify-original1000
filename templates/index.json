@@ -249,6 +249,32 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "rich_text_nTEPfW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CXyEJG": {
+          "type": "heading",
+          "settings": {
+            "text": "Cou raffermi et rides lissées en un geste.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CXyEJG"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_ybyFfa": {
       "type": "rich-text",
       "blocks": {
@@ -256,7 +282,7 @@
           "type": "heading",
           "settings": {
             "text": "Nos clientes en parlent le mieux",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -289,19 +315,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "custom_liquid_BiefrY": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "multi_column_drmiyx": {
@@ -1049,9 +1062,9 @@
     "image_with_text_overlay_nrRLRe",
     "rich_text_wyQK7d",
     "before_after_image_bTKH7B",
+    "rich_text_nTEPfW",
     "rich_text_ybyFfa",
     "image_with_text_overlay_VmMEDn",
-    "custom_liquid_BiefrY",
     "multi_column_drmiyx",
     "featured-product",
     "image_with_text_overlay_FQrq8n",
