@@ -275,6 +275,21 @@
         "text_color": ""
       }
     },
+    "video_63d6AL": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Enregistrement de l’écran 2025-09-26 à 23.32.52.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_ybyFfa": {
       "type": "rich-text",
       "blocks": {
@@ -1063,6 +1078,7 @@
     "rich_text_wyQK7d",
     "before_after_image_bTKH7B",
     "rich_text_nTEPfW",
+    "video_63d6AL",
     "rich_text_ybyFfa",
     "image_with_text_overlay_VmMEDn",
     "multi_column_drmiyx",
