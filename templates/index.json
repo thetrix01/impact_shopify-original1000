@@ -626,23 +626,6 @@
     },
     "impact_text_EFT4Q6": {
       "type": "impact-text",
-      "blocks": {
-        "item_ifTzfi": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Résultats de nos clientes",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_ifTzfi"
-      ],
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -658,19 +641,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "custom_liquid_mntdyT": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css\"/>\n\n<div class=\"image-carousel\">\n  <div class=\"swiper-container\">\n    <div class=\"swiper-wrapper\">\n      <!-- Les 8 images de ton carrousel -->\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/6b3e2bac9b67371b845b96d972eed061.jpg?v=1758735313\" alt=\"Image 1\" />\n      </div>\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/173760f52eedd08c07fb94c9c91f6b67.jpg?v=1758735313\" alt=\"Image 2\" />\n      </div>\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/92e72c6a4ed60ebb161ec80a605cdb3e.jpg?v=1758735312\" alt=\"Image 3\" />\n      </div>\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/395108c5ea3f0216bb2a84d98141e3ca.jpg?v=1758735313\" alt=\"Image 4\" />\n      </div>\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/04922569f38efbaa1d2b632b09d07424_ce052f8f-3a1f-4988-99d8-b5c8a0d0b3a8.jpg?v=1758735313\" alt=\"Image 5\" />\n      </div>\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/27062ddd17cf46a2a04ff3e8c0ebe6e8.jpg?v=1758735314\" alt=\"Image 6\" />\n      </div>\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/27062ddd17cf46a2a04ff3e8c0ebe6e8.jpg?v=1758735314\" alt=\"Image 7\" />\n      </div>\n      <div class=\"swiper-slide\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0960/8269/0383/files/941b81c0310298c9eb0747cd105fdd94.jpg?v=1758735312\" alt=\"Image 8\" />\n      </div>\n    </div>\n    <!-- Navigation -->\n    <div class=\"swiper-button-next\"></div>\n    <div class=\"swiper-button-prev\"></div>\n    <!-- Pagination -->\n    <div class=\"swiper-pagination\"></div>\n  </div>\n</div>\n\n<script src=\"https://cdn.jsdelivr.net/npm/swiper@8.4.7/swiper-bundle.min.js\"></script>\n\n<script>\n  var swiper = new Swiper('.swiper-container', {\n    loop: true,\n    navigation: {\n      nextEl: '.swiper-button-next',\n      prevEl: '.swiper-button-prev',\n    },\n    pagination: {\n      el: '.swiper-pagination',\n      clickable: true,\n    },\n    spaceBetween: 10, // Espacement entre les images\n    slidesPerView: 3, // Nombre d'images visibles en même temps\n    breakpoints: {\n      320: {\n        slidesPerView: 1, // Un seul élément visible sur les petits écrans\n      },\n      768: {\n        slidesPerView: 2, // Deux éléments visibles sur tablettes\n      },\n      1024: {\n        slidesPerView: 3, // Trois éléments visibles sur grands écrans\n      },\n    },\n  });\n</script>\n\n<style>\n  .image-carousel {\n    max-width: 100%;\n    margin: 0 auto;\n    padding: 20px;\n  }\n\n  .swiper-container {\n    width: 100%;\n    height: 300px; /* Hauteur du carrousel */\n  }\n\n  .swiper-slide img {\n    width: 100%;\n    height: 100%;\n    object-fit: cover; /* Remplir l'espace sans déformer l'image */\n  }\n\n  /* Style des boutons de navigation */\n  .swiper-button-next, .swiper-button-prev {\n    color: #000;\n  }\n\n  /* Style de la pagination */\n  .swiper-pagination-bullet {\n    background-color: #000;\n  }\n\n  .swiper-pagination-bullet-active {\n    background-color: #00b67a;\n  }\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "tabs_yHBiUb": {
@@ -886,6 +856,21 @@
         "text_color": ""
       }
     },
+    "video_WLacy3": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/🌸 Rituel beauté Kerazlyn – 2 fois par jour 🌸 (1).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "image_with_text_overlay_NTieH8": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -1085,12 +1070,12 @@
     "featured-product",
     "image_with_text_overlay_FQrq8n",
     "impact_text_EFT4Q6",
-    "custom_liquid_mntdyT",
     "tabs_yHBiUb",
     "rich_text_86pDTT",
     "images_with_text_scrolling_UieNaM",
     "impact_text_TgVtQM",
     "1756923455d5d2871f",
+    "video_WLacy3",
     "image_with_text_overlay_NTieH8",
     "faq",
     "1757268479c7402b21",
